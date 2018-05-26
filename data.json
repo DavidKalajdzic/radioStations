@@ -1,8 +1,20 @@
 [
   {
+    "name": "Big1",
+    "streamUrl": "http://big1.bigportal.ba:8100/big1",
+    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s8805q.png",
+    "recordingCountry": "BIH"
+  },
+  {
     "name": "Big2",
     "streamUrl": "http://big2.bigportal.ba:8100/big2",
     "imageLogo": "https://cdn-radiotime-logos.tunein.com/s70058q.png",
+    "recordingCountry": "BIH"
+  }, 
+  {
+    "name": "Big3",
+    "streamUrl": "http://big3.bigportal.ba:8100/big3",
+    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s89914q.png",
     "recordingCountry": "BIH"
   },
   {
@@ -11,8 +23,10 @@
     "imageLogo": "https://cdn-radiotime-logos.tunein.com/s1620q.png",
     "recordingCountry": "BIH"
   },
-
-
+  
+  
+  
+  
   {
     "name": "NRJ",
     "streamUrl": "http://185.52.127.155/fr/30001/mp3_128.mp3?origine=fluxradios",
@@ -57,11 +71,7 @@
 
 
 
-
-
-
-
-
+  
   {
     "name": "Uniton",
     "streamUrl": "http://uniton.ru/playlists/RadioUniton192.m3u",
@@ -80,9 +90,6 @@
     "imageLogo": "https://cdn-radiotime-logos.tunein.com/s25577q.png",
     "recordingCountry": "RU"
   },
-
-
-
 
 
   {

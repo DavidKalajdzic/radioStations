@@ -173,6 +173,12 @@
     "recordingCountry": "RU"
   },
   {
+    "name": "Авторадио",
+    "streamUrl": "http://ic3.101.ru:8000/a100",
+    "imageLogo": "http://www.avtoradio.ru/design/images/site-design/avtoradio-logo.png",
+    "recordingCountry": "RU"
+  },
+  {
     "name": "Радио Русские Песни",
     "streamUrl": "http://listen.rusongs.ru/ru-hd",
     "imageLogo": "http://cdn.onlineradiobox.com/img/logo/9/149.v1.png",

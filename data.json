@@ -2,32 +2,32 @@
   {
     "name": "Big1",
     "streamUrl": "http://big1.bigportal.ba:8100/big1",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s8805q.png",
-    "recordingCountry": "BIH"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s8805q.png",
+    "desc": "BIH"
   },
   {
     "name": "Big2",
     "streamUrl": "http://big2.bigportal.ba:8100/big2",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s70058q.png",
-    "recordingCountry": "BIH"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s70058q.png",
+    "desc": "BIH"
   },
   {
     "name": "Big3",
     "streamUrl": "http://big3.bigportal.ba:8100/big3",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s89914q.png",
-    "recordingCountry": "BIH"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s89914q.png",
+    "desc": "BIH"
   },
   {
     "name": "BN Radio",
     "streamUrl": "http://stream.rtvbn.com:80/",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s1620q.png",
-    "recordingCountry": "BIH"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s1620q.png",
+    "desc": "BIH"
   },
   {
     "name": "Krajiški Radio Dubica",
     "streamUrl": "  http://37.187.92.29:9302/",
-    "imageLogo": "http://cdn.onlineradiobox.com/img/logo/7/68377.v10.png",
-    "recordingCountry": "BIH"
+    "logoUrl": "http://cdn.onlineradiobox.com/img/logo/7/68377.v10.png",
+    "desc": "BIH"
   },
 
 
@@ -36,74 +36,74 @@
   {
     "name": "Ok Radio",
     "streamUrl": "http://live.okradio.net:8054/;",
-    "imageLogo": "https://cdn-profiles.tunein.com/s54164/images/logoq.png",
-    "recordingCountry": "RS"
+    "logoUrl": "https://cdn-profiles.tunein.com/s54164/images/logoq.png",
+    "desc": "RS"
   },
   {
     "name": "Radio Morava",
     "streamUrl": "http://159.253.138.218/;*.mp3",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s54566q.png",
-    "recordingCountry": "RS"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s54566q.png",
+    "desc": "RS"
   },
   {
     "name": "Antena Radio",
     "streamUrl": "http://antenaradio.org:4550/;*.mp3",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s119729q.png",
-    "recordingCountry": "RS"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s119729q.png",
+    "desc": "RS"
   },
   {
     "name": "Radio Bubamara",
     "streamUrl": "http://92.60.230.200:5010/;*.mp3",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s10513q.png",
-    "recordingCountry": "RS"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s10513q.png",
+    "desc": "RS"
   },
   {
     "name": "Hit Radio",
     "streamUrl": "http://streaming11.tdiradio.com:8000/hit",
-    "imageLogo": "http://hitfm.rs/assets/img/logo.png",
-    "recordingCountry": "RS"
+    "logoUrl": "http://hitfm.rs/assets/img/logo.png",
+    "desc": "RS"
   },
   {
     "name": "Naxi Radio",
     "streamUrl": "http://naxi128.streaming.rs:9150/;*.mp3",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s9208q.png",
-    "recordingCountry": "RS"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s9208q.png",
+    "desc": "RS"
   },
   {
     "name": "Radio Pink",
     "streamUrl": "http://pink.exyuserver.com/;*.mp3",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s17587q.png",
-    "recordingCountry": "RS"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s17587q.png",
+    "desc": "RS"
   },
   {
     "name": "Bum Bum Radio",
     "streamUrl": "http://bumbum-stream.netlogic.rs:8000/;stream.nsv",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s116320q.png",
-    "recordingCountry": "RS"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s116320q.png",
+    "desc": "RS"
   },
   {
     "name": "Cool Radio",
     "streamUrl": "http://176.9.30.66/;*.mp3",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s115864q.png",
-    "recordingCountry": "RS"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s115864q.png",
+    "desc": "RS"
   },
   {
     "name": "Radio JAT",
     "streamUrl": "http://streaming.radiojat.rs:8000/radiojat",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s6968q.png",
-    "recordingCountry": "RS"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s6968q.png",
+    "desc": "RS"
   },
   {
     "name": "Rock Radio",
     "streamUrl": "http://rockradio.kbcnet.rs:8025/;*.mp3",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s252249q.png",
-    "recordingCountry": "RS"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s252249q.png",
+    "desc": "RS"
   },
   {
     "name": "Radio S1",
     "streamUrl": "http://edge-fr-02.maksnet.tv/asmedia/radios/chunklist_w306985188.m3u8",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s8550q.png",
-    "recordingCountry": "RS"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s8550q.png",
+    "desc": "RS"
   },
 
 
@@ -112,21 +112,21 @@
   {
     "name": "NRJ",
     "streamUrl": "http://185.52.127.155/fr/30001/mp3_128.mp3?origine=fluxradios",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s2339q.png",
-    "recordingCountry": "?"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s2339q.png",
+    "desc": "?"
   },
 
   {
     "name": "Rouge FM",
     "streamUrl": "http://rougefm.ice.infomaniak.ch/rougefm-high.aac",
-    "imageLogo": "https://cdn-profiles.tunein.com/s58290/images/logoq.png?t=151057",
-    "recordingCountry": "?"
+    "logoUrl": "https://cdn-profiles.tunein.com/s58290/images/logoq.png?t=151057",
+    "desc": "?"
   },
   {
     "name": "diL5",
     "streamUrl": "http://81.201.203.206:8000/",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s235800q.png",
-    "recordingCountry": "?"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s235800q.png",
+    "desc": "?"
   },
 
 
@@ -135,20 +135,20 @@
   {
     "name": "FIP",
     "streamUrl": "http://chai5she.cdn.dvmr.fr/fip-midfi.mp3?ID=76zqey582k",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s15200q.png",
-    "recordingCountry": "FR"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s15200q.png",
+    "desc": "FR"
   },
   {
     "name": "France Inter",
     "streamUrl": "http://chai5she.cdn.dvmr.fr/franceinter-lofi.mp3?ID=76zqey582k",
-    "imageLogo": "https://cdn-profiles.tunein.com/s24875/images/logoq.png?t=636443",
-    "recordingCountry": "FR"
+    "logoUrl": "https://cdn-profiles.tunein.com/s24875/images/logoq.png?t=636443",
+    "desc": "FR"
   },
   {
     "name": "RTL",
     "streamUrl": "http://streaming.radio.rtl.fr/rtl-1-48-192",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s6617q.png",
-    "recordingCountry": "FR"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s6617q.png",
+    "desc": "FR"
   },
 
 
@@ -157,76 +157,76 @@
   {
     "name": "Uniton",
     "streamUrl": "http://uniton.ru/playlists/RadioUniton192.m3u",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s18397q.png",
-    "recordingCountry": "RU"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s18397q.png",
+    "desc": "RU"
   },
   {
     "name": "Radio Mayak",
     "streamUrl": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s14105q.png",
-    "recordingCountry": "RU"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s14105q.png",
+    "desc": "RU"
   },
   {
     "name": "Radio Rossii",
     "streamUrl": "http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s25577q.png",
-    "recordingCountry": "RU"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s25577q.png",
+    "desc": "RU"
   },
   {
     "name": "Авторадио",
     "streamUrl": "http://ic3.101.ru:8000/a100",
-    "imageLogo": "http://www.avtoradio.ru/design/images/site-design/avtoradio-logo.png",
-    "recordingCountry": "RU"
+    "logoUrl": "http://www.avtoradio.ru/design/images/site-design/avtoradio-logo.png",
+    "desc": "RU"
   },
   {
     "name": "Радио Русские Песни",
     "streamUrl": "http://listen.rusongs.ru/ru-hd",
-    "imageLogo": "http://cdn.onlineradiobox.com/img/logo/9/149.v1.png",
-    "recordingCountry": "RU"
+    "logoUrl": "http://cdn.onlineradiobox.com/img/logo/9/149.v1.png",
+    "desc": "RU"
   },
   {
     "name": "ХИТ FM",
     "streamUrl": "https://rmgradio.gcdn.co/hit_m.aac",
-    "imageLogo": "https://cdn-profiles.tunein.com/s14719/images/logoq.jpg",
-    "recordingCountry": "RU"
+    "logoUrl": "https://cdn-profiles.tunein.com/s14719/images/logoq.jpg",
+    "desc": "RU"
   },
   {
     "name": "Радио ЗВЕЗДА",
     "streamUrl": "http://89.208.99.16:8088/zvezda_128",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s107214q.png",
-    "recordingCountry": "RU"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s107214q.png",
+    "desc": "RU"
   },
   {
     "name": "Вести ФМ",
     "streamUrl": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
-    "imageLogo": "https://cdn-profiles.tunein.com/s86668/images/logoq.jpg",
-    "recordingCountry": "RU"
+    "logoUrl": "https://cdn-profiles.tunein.com/s86668/images/logoq.jpg",
+    "desc": "RU"
   },
   {
     "name": "Русское Радио Братск",
     "streamUrl": "http://icecast.russkoeradio.cdnvideo.ru:8000/rr_m.aac",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s14721q.png",
-    "recordingCountry": "RU"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s14721q.png",
+    "desc": "RU"
   },
   {
     "name": "Радио ШАНСОН",
     "streamUrl": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s10334q.png",
-    "recordingCountry": "RU"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s10334q.png",
+    "desc": "RU"
   },
 
 
   {
     "name": "Sputnik French",
     "streamUrl": "http://audio1.video.ria.ru/voicefre",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s127606q.png",
-    "recordingCountry": "RU"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s127606q.png",
+    "desc": "RU"
   },
   {
     "name": "Sputnik Serbian",
     "streamUrl": "http://audio1.video.ria.ru/voicesrb",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s127606q.png",
-    "recordingCountry": "RU"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s127606q.png",
+    "desc": "RU"
   },
 
 
@@ -235,49 +235,49 @@
   {
     "name": "RTS LA 1ère",
     "streamUrl": "http://stream.srg-ssr.ch/m/la-1ere/mp3_128",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s6809q.png",
-    "recordingCountry": "CH"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s6809q.png",
+    "desc": "CH"
   },
   {
     "name": "RTS Espace 2",
     "streamUrl": "http://stream.srg-ssr.ch/m/espace-2/aacp_96",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s24983q.png",
-    "recordingCountry": "CH"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s24983q.png",
+    "desc": "CH"
   },
   {
     "name": "RTS Option Musique",
     "streamUrl": "http://stream.srg-ssr.ch/m/option-musique/aacp_96",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s15466q.png",
-    "recordingCountry": "CH"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s15466q.png",
+    "desc": "CH"
   },
   {
     "name": "Radio SRF 1",
     "streamUrl": "http://stream.srg-ssr.ch/drs1/aacp_96.m3u",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s17465q.png",
-    "recordingCountry": "CH"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s17465q.png",
+    "desc": "CH"
   },
   {
     "name": "SRF 2 Kultur",
     "streamUrl": "http://stream.srg-ssr.ch/m/drs2/aacp_96",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s18553q.png",
-    "recordingCountry": "CH"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s18553q.png",
+    "desc": "CH"
   },
   {
     "name": "La Fabrik",
     "streamUrl": "http://stream.lafabrik.ch:8000/lafabrik",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s223390q.png",
-    "recordingCountry": "CH"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s223390q.png",
+    "desc": "CH"
   },
   {
     "name": "COULEUR 3",
     "streamUrl": "http://stream.srg-ssr.ch/m/couleur3/aacp_96",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s15474q.png",
-    "recordingCountry": "CH"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s15474q.png",
+    "desc": "CH"
   },
   {
     "name": "LFM",
     "streamUrl": "http://lausannefm.ice.infomaniak.ch/lausannefm-high.aac",
-    "imageLogo": "https://cdn-radiotime-logos.tunein.com/s8662q.png",
-    "recordingCountry": "CH"
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s8662q.png",
+    "desc": "CH"
   }
 ]

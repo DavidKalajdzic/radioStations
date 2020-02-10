@@ -1,283 +1,2396 @@
 [
   {
-    "name": "Big1",
-    "streamUrl": "http://big1.bigportal.ba:8100/big1",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s8805q.png",
-    "desc": "BIH"
-  },
-  {
-    "name": "Big2",
-    "streamUrl": "http://big2.bigportal.ba:8100/big2",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s70058q.png",
-    "desc": "BIH"
-  },
-  {
-    "name": "Big3",
-    "streamUrl": "http://big3.bigportal.ba:8100/big3",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s89914q.png",
-    "desc": "BIH"
-  },
-  {
-    "name": "BN Radio",
-    "streamUrl": "http://stream.rtvbn.com:80/",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s1620q.png",
-    "desc": "BIH"
-  },
-  {
-    "name": "Krajiški Radio Dubica",
-    "streamUrl": "  http://37.187.92.29:9302/",
-    "logoUrl": "http://cdn.onlineradiobox.com/img/logo/7/68377.v10.png",
-    "desc": "BIH"
-  },
-
-
-
-
-  {
-    "name": "Ok Radio",
-    "streamUrl": "http://live.okradio.net:8054/;",
-    "logoUrl": "https://cdn-profiles.tunein.com/s54164/images/logoq.png",
-    "desc": "RS"
-  },
-  {
-    "name": "Radio Morava",
-    "streamUrl": "http://159.253.138.218/;*.mp3",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s54566q.png",
-    "desc": "RS"
-  },
-  {
-    "name": "Antena Radio",
-    "streamUrl": "http://antenaradio.org:4550/;*.mp3",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s119729q.png",
-    "desc": "RS"
-  },
-  {
-    "name": "Radio Bubamara",
-    "streamUrl": "http://92.60.230.200:5010/;*.mp3",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s10513q.png",
-    "desc": "RS"
-  },
-  {
-    "name": "Hit Radio",
-    "streamUrl": "http://streaming11.tdiradio.com:8000/hit",
-    "logoUrl": "http://hitfm.rs/assets/img/logo.png",
-    "desc": "RS"
-  },
-  {
-    "name": "Naxi Radio",
-    "streamUrl": "http://naxi128.streaming.rs:9150/;*.mp3",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s9208q.png",
-    "desc": "RS"
-  },
-  {
-    "name": "Radio Pink",
-    "streamUrl": "http://pink.exyuserver.com/;*.mp3",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s17587q.png",
-    "desc": "RS"
-  },
-  {
-    "name": "Bum Bum Radio",
-    "streamUrl": "http://bumbum-stream.netlogic.rs:8000/;stream.nsv",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s116320q.png",
-    "desc": "RS"
-  },
-  {
-    "name": "Cool Radio",
-    "streamUrl": "http://176.9.30.66/;*.mp3",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s115864q.png",
-    "desc": "RS"
-  },
-  {
-    "name": "Radio JAT",
-    "streamUrl": "http://streaming.radiojat.rs:8000/radiojat",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s6968q.png",
-    "desc": "RS"
-  },
-  {
-    "name": "Rock Radio",
-    "streamUrl": "http://rockradio.kbcnet.rs:8025/;*.mp3",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s252249q.png",
-    "desc": "RS"
-  },
-  {
-    "name": "Radio S1",
-    "streamUrl": "http://edge-fr-02.maksnet.tv/asmedia/radios/chunklist_w306985188.m3u8",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s8550q.png",
-    "desc": "RS"
-  },
-
-
-
-
-  {
-    "name": "NRJ",
-    "streamUrl": "http://185.52.127.155/fr/30001/mp3_128.mp3?origine=fluxradios",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s2339q.png",
-    "desc": "?"
-  },
-
-  {
-    "name": "Rouge FM",
-    "streamUrl": "http://rougefm.ice.infomaniak.ch/rougefm-high.aac",
-    "logoUrl": "https://cdn-profiles.tunein.com/s58290/images/logoq.png?t=151057",
-    "desc": "?"
-  },
-  {
-    "name": "diL5",
-    "streamUrl": "http://81.201.203.206:8000/",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s235800q.png",
-    "desc": "?"
-  },
-
-
-
-
-  {
-    "name": "FIP",
-    "streamUrl": "http://chai5she.cdn.dvmr.fr/fip-midfi.mp3?ID=76zqey582k",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s15200q.png",
-    "desc": "FR"
-  },
-  {
-    "name": "France Inter",
-    "streamUrl": "http://chai5she.cdn.dvmr.fr/franceinter-lofi.mp3?ID=76zqey582k",
-    "logoUrl": "https://cdn-profiles.tunein.com/s24875/images/logoq.png?t=636443",
-    "desc": "FR"
-  },
-  {
-    "name": "RTL",
-    "streamUrl": "http://streaming.radio.rtl.fr/rtl-1-48-192",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s6617q.png",
-    "desc": "FR"
-  },
-
-
-
-
-  {
-    "name": "Uniton",
-    "streamUrl": "http://uniton.ru/playlists/RadioUniton192.m3u",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s18397q.png",
-    "desc": "RU"
-  },
-  {
-    "name": "Radio Mayak",
-    "streamUrl": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s14105q.png",
-    "desc": "RU"
-  },
-  {
-    "name": "Radio Rossii",
-    "streamUrl": "http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s25577q.png",
-    "desc": "RU"
-  },
-  {
-    "name": "Авторадио",
-    "streamUrl": "http://ic3.101.ru:8000/a100",
-    "logoUrl": "http://www.avtoradio.ru/design/images/site-design/avtoradio-logo.png",
-    "desc": "RU"
-  },
-  {
-    "name": "Радио Русские Песни",
-    "streamUrl": "http://listen.rusongs.ru/ru-hd",
-    "logoUrl": "http://cdn.onlineradiobox.com/img/logo/9/149.v1.png",
-    "desc": "RU"
-  },
-  {
-    "name": "ХИТ FM",
-    "streamUrl": "https://rmgradio.gcdn.co/hit_m.aac",
-    "logoUrl": "https://cdn-profiles.tunein.com/s14719/images/logoq.jpg",
-    "desc": "RU"
-  },
-  {
-    "name": "Радио ЗВЕЗДА",
-    "streamUrl": "http://89.208.99.16:8088/zvezda_128",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s107214q.png",
-    "desc": "RU"
-  },
-  {
-    "name": "Вести ФМ",
-    "streamUrl": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
-    "logoUrl": "https://cdn-profiles.tunein.com/s86668/images/logoq.jpg",
-    "desc": "RU"
-  },
-  {
-    "name": "Русское Радио Братск",
-    "streamUrl": "http://icecast.russkoeradio.cdnvideo.ru:8000/rr_m.aac",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s14721q.png",
-    "desc": "RU"
-  },
-  {
-    "name": "Радио ШАНСОН",
-    "streamUrl": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s10334q.png",
-    "desc": "RU"
-  },
-
-
-  {
-    "name": "Sputnik French",
-    "streamUrl": "http://audio1.video.ria.ru/voicefre",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s127606q.png",
-    "desc": "RU"
-  },
-  {
-    "name": "Sputnik Serbian",
-    "streamUrl": "http://audio1.video.ria.ru/voicesrb",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s127606q.png",
-    "desc": "RU"
-  },
-
-
-
-
-  {
-    "name": "RTS LA 1ère",
-    "streamUrl": "http://stream.srg-ssr.ch/m/la-1ere/mp3_128",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s6809q.png",
+    "name": "1.FM - A List 80s",
+    "streamUrl": "http://strm112.1.fm/back280s_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
     "desc": "CH"
   },
   {
-    "name": "RTS Espace 2",
-    "streamUrl": "http://stream.srg-ssr.ch/m/espace-2/aacp_96",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s24983q.png",
+    "name": "1.FM - Absolute 70's Pop Radio",
+    "streamUrl": "http://strm112.1.fm/70s_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
     "desc": "CH"
   },
   {
-    "name": "RTS Option Musique",
-    "streamUrl": "http://stream.srg-ssr.ch/m/option-musique/aacp_96",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s15466q.png",
+    "name": "1.FM - Absolute 70's Pop Radio",
+    "streamUrl": "http://sc-70s.1.fm:8658",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
     "desc": "CH"
   },
   {
-    "name": "Radio SRF 1",
-    "streamUrl": "http://stream.srg-ssr.ch/drs1/aacp_96.m3u",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s17465q.png",
+    "name": "1.FM - Absolute 90s Party Zone Radio",
+    "streamUrl": "http://strm112.1.fm/partyzone90s_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
     "desc": "CH"
   },
   {
-    "name": "SRF 2 Kultur",
-    "streamUrl": "http://stream.srg-ssr.ch/m/drs2/aacp_96",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s18553q.png",
+    "name": "1.FM - Absolute Country Hits Radio",
+    "streamUrl": "http://strm112.1.fm/acountry_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
     "desc": "CH"
   },
   {
-    "name": "La Fabrik",
-    "streamUrl": "http://stream.lafabrik.ch:8000/lafabrik",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s223390q.png",
+    "name": "1.FM - Absolute Pop Latino Radio",
+    "streamUrl": "http://strm112.1.fm/latino_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
     "desc": "CH"
   },
   {
-    "name": "COULEUR 3",
+    "name": "1.FM - Absolute TOP 40 Radio",
+    "streamUrl": "http://strm112.1.fm/top40_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Absolute TOP 40 Radio",
+    "streamUrl": "http://sc-t40.1.fm:7016",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Absolute Trance (Euro) Radio",
+    "streamUrl": "http://strm112.1.fm/trance_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Acappella Radio",
+    "streamUrl": "http://strm112.1.fm/acpl_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Adore Jazz Radio",
+    "streamUrl": "http://strm112.1.fm/ajazz_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Adore Jazz Radio",
+    "streamUrl": "http://strm112.1.fm/ajazz_mobile_mp3",
+    "logoUrl": "http://db.radioline.fr/pictures/radio_14d911d2b7e16addd40bc8b6eb07238f/logo200.jpg?size=200",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Adult Urban Hits Choice Radio",
+    "streamUrl": "http://strm112.1.fm/oldschool_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Afterbeat Electronica Radio",
+    "streamUrl": "http://strm112.1.fm/electronica_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - All Euro 80's Radio",
+    "streamUrl": "http://strm112.1.fm/80s_90s_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - All Times & Urban Gospel Radio",
+    "streamUrl": "http://strm112.1.fm/gospel_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Alternative Rock X Hits Radio",
+    "streamUrl": "http://strm112.1.fm/x_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Always-Christmas Radio",
+    "streamUrl": "http://strm112.1.fm/christmas_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - America's Best Ballads Radio",
+    "streamUrl": "http://strm112.1.fm/onelive_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Amsterdam Trance Radio",
+    "streamUrl": "http://strm112.1.fm/atr_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Back To The 50's & 60's Radio",
+    "streamUrl": "http://strm112.1.fm/60s_70s_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Bay Smooth Jazz Radio",
+    "streamUrl": "http://strm112.1.fm/smoothjazz_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Blues Radio",
+    "streamUrl": "http://strm112.1.fm/blues_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - BOM Psytrance Radio",
+    "streamUrl": "http://strm112.1.fm/psytrance_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Bombay Beats India Radio",
+    "streamUrl": "http://strm112.1.fm/bombaybeats_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Bossa Nova Hits",
+    "streamUrl": "http://strm112.1.fm/bossanova_mobile_mp3",
+    "logoUrl": "http://www.1.fm//images/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Bossa Nova Hits Radio",
+    "streamUrl": "http://strm112.1.fm/bossanova_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Brazilian Birds Radio",
+    "streamUrl": "http://strm112.1.fm/brazilianbirds_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Cafe Radio",
+    "streamUrl": "http://strm112.1.fm/caferadio_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Chillout Lounge Radio",
+    "streamUrl": "http://strm112.1.fm/chilloutlounge_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Circuit Pride Radio",
+    "streamUrl": "http://strm112.1.fm/circuitpride_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Classic Country Radio",
+    "streamUrl": "http://strm112.1.fm/ccountry_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Classic Rock Replay Radio",
+    "streamUrl": "http://strm112.1.fm/crock_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Classic Rock Replay Radio",
+    "streamUrl": "http://strm112.1.fm/crock_mobile_mp3",
+    "logoUrl": "https://static.radio.it/images/broadcasts/73/92/15375/2/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Club 1 Radio",
+    "streamUrl": "http://strm112.1.fm/club_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Costa Del Mar",
+    "streamUrl": "http://strm112.1.fm/costadelmarchillout_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Country One Radio",
+    "streamUrl": "http://strm112.1.fm/country_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Dance One Radio",
+    "streamUrl": "http://strm112.1.fm/dance_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Deep House Radio",
+    "streamUrl": "http://strm112.1.fm/deephouse_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Destination: SPA Radio",
+    "streamUrl": "http://strm112.1.fm/spa_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Disco Ball 70's-80's Radio",
+    "streamUrl": "http://strm112.1.fm/disco_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Dubstep Forward Radio",
+    "streamUrl": "http://strm112.1.fm/dubstep_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Eternal Praise & Worship Radio",
+    "streamUrl": "http://strm112.1.fm/praise_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Exitos del Ayer Radio",
+    "streamUrl": "http://strm112.1.fm/spanisholdies_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Funky Express Radio",
+    "streamUrl": "http://185.33.22.15:11121/",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Gorilla FM Radio",
+    "streamUrl": "http://strm112.1.fm/gorillafm_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - High Voltage Radio",
+    "streamUrl": "http://strm112.1.fm/highvoltage_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Italia On Air Radio",
+    "streamUrl": "http://strm112.1.fm/italiaonair_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Jamz Radio",
+    "streamUrl": "http://strm112.1.fm/jamz_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Kids FM Radio",
+    "streamUrl": "http://strm112.1.fm/kidsfm_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Love Classics Radio",
+    "streamUrl": "http://strm112.1.fm/loveclassics_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Magic 80 Radio",
+    "streamUrl": "http://strm112.1.fm/magic80_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Movie Soundtrack",
+    "streamUrl": "http://strm112.1.fm/moviesoundtracks_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - MPB Hits Radio",
+    "streamUrl": "http://strm112.1.fm/mpb_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Otto's Baroque Music Radio",
+    "streamUrl": "http://strm112.1.fm/baroque_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Otto's Baroque Music Radio",
+    "streamUrl": "http://strm112.1.fm/baroque_mobile_mp3",
+    "logoUrl": "https://static.radio.it/images/broadcasts/6a/58/1366/2/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Otto's Classical Music Radio",
+    "streamUrl": "http://185.33.22.15:11077/",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Otto's Opera House Music Radio",
+    "streamUrl": "http://strm112.1.fm/opera_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Polska FM Radio",
+    "streamUrl": "http://185.33.21.112:80/polskafm_128",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Radio Gaia",
+    "streamUrl": "http://strm112.1.fm/radiogaia_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - ReggaeTrade Radio",
+    "streamUrl": "http://strm112.1.fm/reggae_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Rock Classics Radio",
+    "streamUrl": "http://strm112.1.fm/rockclassics_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Samba Hits Brazil Radio",
+    "streamUrl": "http://strm112.1.fm/samba_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Samba Rock Radio",
+    "streamUrl": "http://strm112.1.fm/sambarock_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Sax4Love",
+    "streamUrl": "http://strm112.1.fm/sax4ever_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Sertaneja Hits Radio",
+    "streamUrl": "http://strm112.1.fm/sertanejo_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Slow Jamz Radio",
+    "streamUrl": "http://strm112.1.fm/slowjamz_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Top Fiesta Radio",
+    "streamUrl": "http://strm112.1.fm/spanishparty_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "1.FM - Total Hits En Español Radio",
+    "streamUrl": "http://strm112.1.fm/spanishtophits_mobile_mp3",
+    "logoUrl": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "105 Hitradio",
+    "streamUrl": "http://radio.netstream.ch/planet105_128k_mp3",
+    "logoUrl": "http://radio1-105.dev.dimaster.ch/media/dabis/cover/default.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "13 Starz radio",
+    "streamUrl": "http://streaming.radionomy.com/JamendoLounge",
+    "logoUrl": "http://www.vibration108.ch/wp-content/uploads/2014/06/favicon.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "80ies",
+    "streamUrl": "http://streaming.radionomy.com/JamendoLounge",
+    "logoUrl": "https://www.imgbox.de/users/roc/80ies.png",
+    "desc": "CH"
+  },
+  {
+    "name": "80s Forever",
+    "streamUrl": "http://azuracast.shoutcastsolutions.com/radio/8010/64AAC+.mp3",
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s148312q.png",
+    "desc": "CH"
+  },
+  {
+    "name": "80s Forever - We Keep The 80s Alive",
+    "streamUrl": "http://azuracast.shoutcastsolutions.com:8010",
+    "logoUrl": "https://www.80sforever.radio/wp-content/uploads/2019/05/80sFOREVER-Logo_Radio_Block2_cmyk.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "80s Forever - We Keep The 80s Alive",
+    "streamUrl": "https://premium.shoutcastsolutions.com/radio/8050/256.mp3",
+    "logoUrl": "https://www.80sforever.radio/wp-content/uploads/2019/05/80sFOREVER-Logo_Radio_Block2_cmyk.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Alpradio",
+    "streamUrl": "http://vibration.stream2net.eu:8050/;stream/1",
+    "logoUrl": "http://www.alpradio.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Ambi Nature Radio",
+    "streamUrl": "http://94.23.252.14:8067/;/;.m3u",
+    "logoUrl": "https://www.ambinatureradio.com/wp-content/uploads/2016/03/Ambi-Nature-e1459022898429.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Arc Musique",
+    "streamUrl": "https://arcmusique.ice.infomaniak.ch/arcmusique-128.mp3",
+    "logoUrl": "https://bnj.blob.core.windows.net/assets/Htdocs/Images/Theme/bnj/player/cover-arc.svg",
+    "desc": "CH"
+  },
+  {
+    "name": "Audioasyl",
+    "streamUrl": "http://stream.audioasyl.net:8000/audioasyl",
+    "logoUrl": "http://audioasyl.net/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Barix Radio",
+    "streamUrl": "http://barix.streamguys.net/barix_hi",
+    "logoUrl": "http://www.barix.com/fileadmin/templates/res/favicon_barix.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Bibelradio",
+    "streamUrl": "http://rs1.stream24.org:8690/stream",
+    "logoUrl": "http://static.radio.de/images/broadcasts/19/ae/10954/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Bibelradio NT Psalmen",
+    "streamUrl": "http://rs1.stream24.org:9160/stream",
+    "logoUrl": "http://static.radio.de/images/broadcasts/19/ae/10954/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Buureradio",
+    "streamUrl": "http://stream.radiotell.ch/radiotell.mp3",
+    "logoUrl": "http://www.radiotell.ch/radiotell/_data/betreiberlogos/logo_radiotell.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Canal 3 [DE]",
+    "streamUrl": "http://av03.upstream-media.ch/canal3allemand-128.mp3",
+    "logoUrl": "https://www.canal3.ch//de/sites/all/themes/canal3_theme_v2/images/iphone_retina_icon.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Canal 3 [FR]",
+    "streamUrl": "http://av03.upstream-media.ch/canal3francais-128.mp3",
+    "logoUrl": "https://www.canal3.ch//de/sites/all/themes/canal3_theme_v2/images/iphone_retina_icon.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Christmas Radio",
+    "streamUrl": "http://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3",
+    "logoUrl": "http://www.christmasradio.fm/__soononline/countdown_files/img/logo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Classix Radio Switzerland",
+    "streamUrl": "https://classixradio.ice.infomaniak.ch/classixradio-high.mp3",
+    "logoUrl": "https://classixradio.ch/assets/images/Classixs.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Couleur3",
     "streamUrl": "http://stream.srg-ssr.ch/m/couleur3/aacp_96",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s15474q.png",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Couleur_3_logo.svg/988px-Couleur_3_logo.svg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Electro Radio",
+    "streamUrl": "http://stream.electroradio.fm/192k",
+    "logoUrl": "https://www.electroradio.fm/images/electroradio_logo_200.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy 00s",
+    "streamUrl": "https://energy00s.ice.infomaniak.ch/energy00s-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_00s_1493850304.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy 10s",
+    "streamUrl": "https://energy10s.ice.infomaniak.ch/energy10s-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_10s_1496927267.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy 80s",
+    "streamUrl": "http://energy80s.ice.infomaniak.ch/energy80s-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_80s_1493850231.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy 90s",
+    "streamUrl": "http://energy90s.ice.infomaniak.ch/energy90s-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_90s_1493850263.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Air",
+    "streamUrl": "https://energyair.ice.infomaniak.ch/energyair-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_air_1496927402.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy All Time Hits",
+    "streamUrl": "https://energyalltimehits.ice.infomaniak.ch/energyalltimehits-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_alltimehits_1496927518.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy At Work",
+    "streamUrl": "https://energyatwork.ice.infomaniak.ch/energyatwork-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_atwork_1546503844.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Balkan Hits",
+    "streamUrl": "https://energybalkanhits.ice.infomaniak.ch/energybalkanhits-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_balkanhits_1496927387.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Blick Trendz",
+    "streamUrl": "http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3",
+    "logoUrl": "http://www.energyzueri.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Charts",
+    "streamUrl": "https://energycharts.ice.infomaniak.ch/energycharts-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/500x500-c/logo_secondary_charts_1493850464.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Country Hits",
+    "streamUrl": "https://energycountryhits.ice.infomaniak.ch/energycountryhits-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_countryhits_1496927546.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Dance (Switzerland)",
+    "streamUrl": "http://energydance.ice.infomaniak.ch/energydance-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_dance_1493850484.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Deep",
+    "streamUrl": "http://energydeep.ice.infomaniak.ch/energydeep-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_deep_1493850507.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Discover",
+    "streamUrl": "https://energydiscover.ice.infomaniak.ch/energydiscover-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_discover_1496927557.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Fashion Night",
+    "streamUrl": "https://energyfashionnight.ice.infomaniak.ch/energyfashionnight-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_fashionnight_1496927409.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Folk",
+    "streamUrl": "https://energyfolk.ice.infomaniak.ch/energyfolk-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_folk_1496927364.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy French",
+    "streamUrl": "https://energyfrench.ice.infomaniak.ch/energyfrench-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_french_1496927474.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Happy",
+    "streamUrl": "https://energyhappy.ice.infomaniak.ch/energyhappy-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_happy_1496927551.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Hits",
+    "streamUrl": "https://energyhits.ice.infomaniak.ch/energyhits-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_hits_1512407288.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Hot",
+    "streamUrl": "https://energyhot.ice.infomaniak.ch/energyhot-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energy-web/assets/favicons/favicon-96x96.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Italy (Switzerland)",
+    "streamUrl": "http://energyitaly.ice.infomaniak.ch/energyitaly-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_italy_1493850603.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy K-Pop",
+    "streamUrl": "https://energykpop.ice.infomaniak.ch/energykpop-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_kpop_1544451107.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Latin",
+    "streamUrl": "https://energylatin.ice.infomaniak.ch/energylatin-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_latin_1496927320.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Live Session",
+    "streamUrl": "https://energylivesession.ice.infomaniak.ch/energylivesession-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_livesession_1496927424.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Love",
+    "streamUrl": "http://energylove.ice.infomaniak.ch/energylove-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_love_1493850718.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Mix",
+    "streamUrl": "https://energymix.ice.infomaniak.ch/energymix-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_mix_1496927357.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Mundart",
+    "streamUrl": "https://energymundart.ice.infomaniak.ch/energymundart-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_mundart_1496927481.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy One Hit Wonder",
+    "streamUrl": "https://energyonehitwonder.ice.infomaniak.ch/energyonehitwonder-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_onehitwonder_1496927495.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Party Hits",
+    "streamUrl": "https://energypartyhits.ice.infomaniak.ch/energypartyhits-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_partyhits_1496927446.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Pop",
+    "streamUrl": "https://energypop.ice.infomaniak.ch/energypop-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_pop_1496927535.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy R'N'B & Hip-Hop",
+    "streamUrl": "https://energyrnbhiphop.ice.infomaniak.ch/energyrnbhiphop-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_rnbhiphop_1544451065.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Rap",
+    "streamUrl": "https://energyrap.ice.infomaniak.ch/energyrap-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_rap_1496927503.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Red Session",
+    "streamUrl": "https://energyredsession.ice.infomaniak.ch/energyredsession-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_redsession_1496927431.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Reggae",
+    "streamUrl": "https://energyreggae.ice.infomaniak.ch/energyreggae-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_reggae_1496927510.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Relax",
+    "streamUrl": "https://energyrelax.ice.infomaniak.ch/energyrelax-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_relax_1544177412.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Rock",
+    "streamUrl": "http://energyrock.ice.infomaniak.ch/energyrock-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energy-web/assets/images/logos/energy_logo_md.svg",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Soundtrack",
+    "streamUrl": "http://energysoundtrack.ice.infomaniak.ch/energysoundtrack-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_soundtrack_1493850961.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Star Night",
+    "streamUrl": "https://energystarnight.ice.infomaniak.ch/energystarnight-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_starnight_1496927416.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Summer",
+    "streamUrl": "http://energysummer.ice.infomaniak.ch/energysummer-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_summer_1496927282.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Swiss",
+    "streamUrl": "http://energyswiss.ice.infomaniak.ch/energyswiss-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_swiss_1493851016.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy US Top 40",
+    "streamUrl": "https://energyustop40.ice.infomaniak.ch/energyustop40-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_ustop40_1496927452.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy User Charts",
+    "streamUrl": "https://energyusercharts.ice.infomaniak.ch/energyusercharts-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_usercharts_1496927579.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Workout",
+    "streamUrl": "http://energyworkout.ice.infomaniak.ch/energyworkout-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_workout_1493851043.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Xmas",
+    "streamUrl": "https://energyxmas.ice.infomaniak.ch/energyxmas-high.mp3",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_xmas_1496927439.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Energy Zürich (NRJ)",
+    "streamUrl": "http://broadcast.infomaniak.ch/energyzuerich-high.mp3",
+    "logoUrl": "http://static.radio.net/images/broadcasts/31/2f/6977/1/c300.png",
+    "desc": "CH"
+  },
+  {
+    "name": "ERF Melodie (128k)",
+    "streamUrl": "http://server6.digital-webstream.de:32505/;",
+    "logoUrl": "http://www.erf-melodie.com//favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Fréquence Banane",
+    "streamUrl": "http://fbpc5.epfl.ch:8000/fb_192",
+    "logoUrl": "https://www.frequencebanane.ch/wp-content/uploads/2015/06/logo_hor.png",
+    "desc": "CH"
+  },
+  {
+    "name": "GDS.FM",
+    "streamUrl": "http://gdsfm.out.airtime.pro:8000/gdsfm_a",
+    "logoUrl": "http://play.gds.fm/build/images/gds-logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Global FM",
+    "streamUrl": "http://globalfm.ice.infomaniak.ch/globalfm-high.mp3",
+    "logoUrl": "http://www.globalfm.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Grrif",
+    "streamUrl": "http://grrif.ice.infomaniak.ch/grrif-high.mp3",
+    "logoUrl": "https://www.grrif.ch/wp-content/themes/grrif/img/icons/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "grrif",
+    "streamUrl": "http://grrif.ice.infomaniak.ch/grrif-high.mp3",
+    "logoUrl": "https://www.grrif.ch/wp-content/themes/grrif/img/icons/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "H1 Radio",
+    "streamUrl": "http://webradio.h1radio.ch:8340/;",
+    "logoUrl": "https://i2.wp.com/www.h1radio.ch/WP/wp-content/uploads/2014/11/H1_Radio_Logo300x400.jpg?fit=422%2C300",
+    "desc": "CH"
+  },
+  {
+    "name": "IP music",
+    "streamUrl": "http://live9.avf.ch:8000/ipmusic256",
+    "logoUrl": "http://www.ipmusic.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "IP music",
+    "streamUrl": "http://live7.avf.ch:8000/ipmusic320",
+    "logoUrl": "http://www.ipmusic.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "IP music",
+    "streamUrl": "http://live7.avf.ch:8000/ipmusicaacplus96",
+    "logoUrl": "http://www.ipmusic.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "IP music",
+    "streamUrl": "http://live7.avf.ch:8000/ipmusicaacplus128",
+    "logoUrl": "http://www.ipmusic.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "IP music",
+    "streamUrl": "http://live9.avf.ch:8000/ipmusicaacplus96",
+    "logoUrl": "http://is4.mzstatic.com/image/thumb/Purple71/v4/61/cb/5e/61cb5ed3-8005-1015-2b04-2ea3e77d3a0a/source/1200x630bb.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "IP music (AAC)",
+    "streamUrl": "http://live9.avf.ch:8000/ipmusicaacplus64",
+    "logoUrl": "http://www.ipmusic.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "IP music (MP3)",
+    "streamUrl": "http://live9.avf.ch:8000/ipmusic128",
+    "logoUrl": "http://www.ipmusic.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "IP music slow (128 kbps AAC)",
+    "streamUrl": "http://live7.avf.ch:8000/ipmusicslowaacp128",
+    "logoUrl": "http://www.ipmusicslow.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "IP music slow (96 kbps AAC)",
+    "streamUrl": "http://live7.avf.ch:8000/ipmusicslowaacp96",
+    "logoUrl": "http://www.ipmusicslow.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Kanal Bethesda",
+    "streamUrl": "http://n02.radiojar.com/a2dd2q0kb?rj-ttl=5&rj-tok=AAABcC3yUqcAKI0SxBnrDvRlUQ",
+    "logoUrl": "https://lh3.googleusercontent.com/YnrWEDemIZedZ3l6hPrIYvlWIyqYmYUOL89E74Mr6o3CcDmRl60Zxiqeqhu8dSBXM92ZIQQMDWPxvGeleQ",
+    "desc": "CH"
+  },
+  {
+    "name": "Kanal K",
+    "streamUrl": "http://stream.kanalk.ch:8050/kanalk.mp3",
+    "logoUrl": "https://www.kanalk.ch/wp-content/uploads/2018/03/favicon.png",
     "desc": "CH"
   },
   {
     "name": "LFM",
-    "streamUrl": "http://lausannefm.ice.infomaniak.ch/lausannefm-high.aac",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s8662q.png",
+    "streamUrl": "http://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3",
+    "logoUrl": "https://www.lfm.ch/wp-content/uploads/2017/07/LFM_Allonge_Fond_Blanc_v01copie.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Lounge Radio",
+    "streamUrl": "http://de1.streamhosting.ch:80",
+    "logoUrl": "https://lounge-radio.com//wp-content/uploads/fbrfg/mstile-144x144.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Lounge-Radio.com",
+    "streamUrl": "http://fr1.lounge-radio.com/lounge128.mp3",
+    "logoUrl": "http://www.lounge-radio.com/code/pushed_files/playlist_sam342/na.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Lounge-Radio.com",
+    "streamUrl": "http://nl1.lounge-radio.com:8010/",
+    "logoUrl": "http://www.lounge-radio.com/header_alpen.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Luna Radio",
+    "streamUrl": "https://lunaradio.ice.infomaniak.ch/lunaradio-high.mp3",
+    "logoUrl": "http://lunaradio.ch//assets/favicons/mstile-144x144.png",
+    "desc": "CH"
+  },
+  {
+    "name": "MASCHINENGEIST.ORG Radio",
+    "streamUrl": "http://i.20hz.biz:8000/maschinengeist.org.192.mp3",
+    "logoUrl": "http://forum.maschinengeist.org/images/maschinengeist.org/mg_logo.gif",
+    "desc": "CH"
+  },
+  {
+    "name": "my105 - All The Hits",
+    "streamUrl": "http://stream01.my105.ch/my105allthehits.mp3",
+    "logoUrl": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "my105 - Charts",
+    "streamUrl": "http://stream01.my105.ch/my105charts.mp3",
+    "logoUrl": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "my105 - Chill",
+    "streamUrl": "http://stream01.my105.ch/my105chill.mp3",
+    "logoUrl": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "my105 - Dance",
+    "streamUrl": "http://stream01.my105.ch/my105dance.mp3",
+    "logoUrl": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "my105 - Deep",
+    "streamUrl": "http://stream01.my105.ch/my105deep.mp3",
+    "logoUrl": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "my105 - Deluxe",
+    "streamUrl": "http://stream01.my105.ch/my105deluxe.mp3",
+    "logoUrl": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "my105 - DJ Mixes",
+    "streamUrl": "http://stream01.my105.ch/my105djnights.mp3",
+    "logoUrl": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "my105 - Dreist",
+    "streamUrl": "http://stream01.my105.ch/my105dreist.mp3",
+    "logoUrl": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "my105 - Fresh",
+    "streamUrl": "http://stream01.my105.ch/my105fresh.mp3",
+    "logoUrl": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "my105 - Love",
+    "streamUrl": "http://stream01.my105.ch/my105love.mp3",
+    "logoUrl": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "my105 - Mashup",
+    "streamUrl": "http://stream01.my105.ch/my105mashup.mp3",
+    "logoUrl": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "my105 - Original",
+    "streamUrl": "http://stream01.my105.ch/my105original.mp3",
+    "logoUrl": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "my105 - Party",
+    "streamUrl": "http://stream01.my105.ch/my105party.mp3",
+    "logoUrl": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "my105 - Ritmo Latino",
+    "streamUrl": "http://stream01.my105.ch/my105ritmolatino.mp3",
+    "logoUrl": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "my105 - Rock",
+    "streamUrl": "http://stream01.my105.ch/my105rock.mp3",
+    "logoUrl": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "my105 - The Battle",
+    "streamUrl": "http://stream01.my105.ch/my105thebattle.mp3",
+    "logoUrl": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "neo1",
+    "streamUrl": "http://neo1.bcast.infomaniak.ch/neo1.mp3",
+    "logoUrl": "http://www.neo1.ch/fileadmin/templates/neo1/apple-touch-icon-144x144-precomposed.png",
+    "desc": "CH"
+  },
+  {
+    "name": "NRJ Energy.ch - Hits",
+    "streamUrl": "https://energyhits.ice.infomaniak.ch/energyhits-high.mp3?ua=Energy+Player+Bar",
+    "logoUrl": "http://funkyimg.com/i/2DvnU.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "NRJ Energy.ch - Hot",
+    "streamUrl": "http://energyhot.ice.infomaniak.ch/energyhot-high.mp3",
+    "logoUrl": "http://funkyimg.com/i/2DvmR.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "NRJ Energy.ch - US Top40",
+    "streamUrl": "https://energyustop40.ice.infomaniak.ch/energyustop40-high.mp3?ua=Energy+Player+Bar",
+    "logoUrl": "http://funkyimg.com/i/2DvnF.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "One Dance Ticino",
+    "streamUrl": "https://ice15.fluidstream.net/onedancech.aac",
+    "logoUrl": "https://players.fluidstream.it/OneDanceCH/images/cover_default.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "One FM",
+    "streamUrl": "http://onefm.ice.infomaniak.ch/onefm-high.mp3",
+    "logoUrl": "https://cdn-profiles.tunein.com/s7567/images/logoq.png?t=1",
+    "desc": "CH"
+  },
+  {
+    "name": "One FM",
+    "streamUrl": "http://onefm.ice.infomaniak.ch/onefm-low.mp3",
+    "logoUrl": "http://www.onefm.ch/wp-content/uploads/2017/08/favicon.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Openbroadcast.ch",
+    "streamUrl": "http://stream.openbroadcast.org/openbroadcast",
+    "logoUrl": "https://www.openbroadcast.ch/static/img/asset/logo-og.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Pirates Radio",
+    "streamUrl": "http://pirates.mine.nu:8080/pirates.mp3",
+    "logoUrl": "http://www.piratesradio.ch/images/logo-pirate.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Planet Ambi HD",
+    "streamUrl": "http://philae.shoutca.st:9019/stream",
+    "logoUrl": "http://www.planetambi.com/wp-content/uploads/2016/02/albumartsmall.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Public Domain Classical",
+    "streamUrl": "http://relay.publicdomainproject.org/classical.mp3",
+    "logoUrl": "https://en.publicdomainproject.org/images/thumb/a/a4/Pd-classical-app.png/600px-Pd-classical-app.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Public Domain Jazz",
+    "streamUrl": "http://relay.publicdomainproject.org/jazz_swing.mp3",
+    "logoUrl": "https://en.publicdomainproject.org/images/thumb/4/46/Pd-jazz-app.png/600px-Pd-jazz-app.png",
+    "desc": "CH"
+  },
+  {
+    "name": "R102",
+    "streamUrl": "http://94.23.66.155:9334/stream",
+    "logoUrl": "http://r102.ch/wp-content/uploads/2016/12/logo-pagine.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "RaBe Radio Bern Switzerland",
+    "streamUrl": "http://stream.rabe.ch:8000/livestream/rabe-mid.mp3",
+    "logoUrl": "https://kuriosum.org/wp-content/uploads/2014/07/radiobern-rabe.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio 1 Zürich",
+    "streamUrl": "http://radio.nello.tv:80/128k",
+    "logoUrl": "http://www.radio1.ch/templates/web/img/logo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio 24 - Countdown",
+    "streamUrl": "http://icecast.radio24.ch/24ctd-mp3-srp",
+    "logoUrl": "https://static.a-z.ch/__ip/23RBW9BQeY3F0N74x4WjjZyIpw0/20dce66623ccffe6cfaecbee0aaede6f5be4b23e/remote.adjust.rotate=0&remote.size.w=450&remote.size.h=450&local.crop.h=450&local.crop.w=450&local.crop.x=0&local.crop.y=0&r=2,radio-162x162",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio 24 - Fridaynite",
+    "streamUrl": "http://icecast.radio24.ch/24fn-mp3-srp",
+    "logoUrl": "https://static.a-z.ch/__ip/hUxd2DlYTNFR_G2KBAYfyWu1ius/b33b9f0af5437378ce178a7f3c22526bb480d734/remote.adjust.rotate=0&remote.size.w=450&remote.size.h=450&local.crop.h=450&local.crop.w=450&local.crop.x=0&local.crop.y=0&r=2,radio-162x162",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio 24 - Greatest Hits",
+    "streamUrl": "http://icecast.radio24.ch/24sn-mp3-srp",
+    "logoUrl": "https://static.a-z.ch/__ip/sY_4J91KeZcR_IT1pgSmbLRO9nY/30ab3f1df16624095cd12846967ac8b2b3bcad77/remote.adjust.rotate=0&remote.size.w=450&remote.size.h=450&local.crop.h=450&local.crop.w=450&local.crop.x=0&local.crop.y=0&r=2,radio-162x162",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio 24 - Lounge",
+    "streamUrl": "http://icecast.radio24.ch/24lounge-mp3-srp",
+    "logoUrl": "https://static.a-z.ch/__ip/T30kN1jL4gthFkEV1k_DwKWozBs/8f47a0309384dfa3934eb8b2dec67bf3fed5e5e8/remote.adjust.rotate=0&remote.size.w=450&remote.size.h=450&local.crop.h=450&local.crop.w=450&local.crop.x=0&local.crop.y=0&r=2,radio-162x162",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio 32 Goldies",
+    "streamUrl": "http://stream.radio32.ch/radio32goldies",
+    "logoUrl": "http://www.goldies.ch/pages/img/radio32Goldieslogo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio 32 Goldies",
+    "streamUrl": "http://stream.radio32.ch/radio32goldies",
+    "logoUrl": "http://www.goldies.ch/pages/img/radio32Goldieslogo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio 3FACH",
+    "streamUrl": "http://stream01.3fach.ch:8001/live",
+    "logoUrl": "http://3fach.ch/wp-content/themes/3fach/3fach/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Argovia",
+    "streamUrl": "http://icecastgreen.argovia.ch/argovia-rc-96-aac",
+    "logoUrl": "http://www.regas.ch/fileadmin/_processed_/csm_Radio_ARgovia_9b8da45b97.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Argovia - 80s",
+    "streamUrl": "http://icecast.argovia.ch/a80-mp3-srp",
+    "logoUrl": "http://www.regas.ch/fileadmin/_processed_/csm_Radio_ARgovia_9b8da45b97.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Argovia - 90s",
+    "streamUrl": "http://icecast.argovia.ch/a90-mp3-srp",
+    "logoUrl": "http://www.regas.ch/fileadmin/_processed_/csm_Radio_ARgovia_9b8da45b97.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Argovia - Charts Countdown",
+    "streamUrl": "http://icecast.argovia.ch/actd-mp3-srp",
+    "logoUrl": "http://www.regas.ch/fileadmin/_processed_/csm_Radio_ARgovia_9b8da45b97.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Argovia - Classic Rock",
+    "streamUrl": "http://icecastgreen.argovia.ch/acr-mp3-srp",
+    "logoUrl": "http://www.regas.ch/fileadmin/_processed_/csm_Radio_ARgovia_9b8da45b97.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Argovia - Hitmix",
+    "streamUrl": "http://icecastgreen.argovia.ch/ahm-mp3-srp",
+    "logoUrl": "http://www.regas.ch/fileadmin/_processed_/csm_Radio_ARgovia_9b8da45b97.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Argovia - Lounge",
+    "streamUrl": "http://icecast.argovia.ch/alounge-mp3-srp",
+    "logoUrl": "http://www.regas.ch/fileadmin/_processed_/csm_Radio_ARgovia_9b8da45b97.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Argovia - Party",
+    "streamUrl": "http://icecast.argovia.ch/aparty-mp3-srp",
+    "logoUrl": "http://www.regas.ch/fileadmin/_processed_/csm_Radio_ARgovia_9b8da45b97.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Argovia - Pop",
+    "streamUrl": "http://icecast.argovia.ch/apop-mp3-srp",
+    "logoUrl": "http://www.regas.ch/fileadmin/_processed_/csm_Radio_ARgovia_9b8da45b97.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Argovia - Season",
+    "streamUrl": "http://icecast.argovia.ch/aseason-mp3-srp",
+    "logoUrl": "http://www.regas.ch/fileadmin/_processed_/csm_Radio_ARgovia_9b8da45b97.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Barix AAC",
+    "streamUrl": "http://barix.streamguys.net:80/barix_aacp",
+    "logoUrl": "https://www.barix.com/fileadmin/templates/res/favicon_barix.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Basilisk",
+    "streamUrl": "http://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3",
+    "logoUrl": "http://www.basilisk.ch///apple-touch-icon.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio BeO",
+    "streamUrl": "http://stream11.radiobeo.ch:8000/radiobeo.mp3",
+    "logoUrl": "http://www.radiobeo.ch/wp-content/themes/radiobeo/images/logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Chablais",
+    "streamUrl": "http://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3",
+    "logoUrl": "http://www.radiochablais.ch/images/logos/logo-facebook.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Del Mar",
+    "streamUrl": "https://radiodelmar.ice.infomaniak.ch/radiodelmar-high.mp3",
+    "logoUrl": "https://radiodelmar.ch/assets/favicons/apple-touch-icon-114x114.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Eviva",
+    "streamUrl": "http://radioeviva.ice.infomaniak.ch/radioeviva-128.mp3",
+    "logoUrl": "http://www.eviva.ch/favicon2012.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Extra FM",
+    "streamUrl": "http://streamingv2.shoutcast.com/RADIOEXTRAFM",
+    "logoUrl": "http://www.voxinox.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Freiburg",
+    "streamUrl": "http://radiofreiburg.ice.infomaniak.ch/radiofreiburg-low.mp3",
+    "logoUrl": "http://www.radiofr.ch/",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Gloria",
+    "streamUrl": "http://live-two.dmd2.ch:8080/radiogloria_lo",
+    "logoUrl": "https://www.radiogloria.ch/wp-content/uploads/2017/03/icon.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio grenzenlos",
+    "streamUrl": "http://live.grenzenlos.ch:5006/stream",
+    "logoUrl": "http://radio.grenzenlos.ch/web/wp-content/uploads/2017/02/cropped-grenzenlos-icon-192x192.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Grischa",
+    "streamUrl": "http://streaming.swisstxt.ch/m/grischa/mp3_128",
+    "logoUrl": "http://www.suedostschweiz.ch/themes/suedostschweiz/images/favicons/mstile-144x144.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Gwendalyn",
+    "streamUrl": "http://stream.radiogwen.ch:8000/radiogwen",
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s110181q.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Kaiseregg",
+    "streamUrl": "http://kaiseregg.ice.infomaniak.ch/stream128k.mp3",
+    "logoUrl": "http://www.kaiseregg.ch///templates/yoo_drive/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Lac",
+    "streamUrl": "https://radiolac.ice.infomaniak.ch/radiolac-high.mp3",
+    "logoUrl": "https://www.radiolac.ch/wp-content/uploads/2017/08/android-icon-48x48.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio LoRa",
+    "streamUrl": "http://lora.ice.infomaniak.ch/lora.mp3",
+    "logoUrl": "http://www.lora.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Maria Schweiz (128 kbps)",
+    "streamUrl": "http://player.radio-maria.ch:9000/radiomaria_lo",
+    "logoUrl": "https://www.radiomaria.ch//sites/all/themes/richer/assets/images/favicons/apple-icon-57x57.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Maria Schweiz (32k)",
+    "streamUrl": "http://player.radio-maria.ch:9000/radiomarialo_32",
+    "logoUrl": "http://www.radiomaria.ch//sites/all/themes/richer/assets/images/favicons/apple-icon-57x57.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Maria Schweiz (64k)",
+    "streamUrl": "http://player.radio-maria.ch:9000/radiomarialo_64",
+    "logoUrl": "https://www.radiomaria.ch/sites/default/files/favicon_0.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Maria Switzerland",
+    "streamUrl": "http://dreamsiteradiocp.com:8020/stream",
+    "logoUrl": "https://www.radiomaria.ch/sites/default/files/favicon_0.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "RADIO MARIA SWITZERLAND",
+    "streamUrl": "http://dreamsiteradiocp2.com:8106/stream",
+    "logoUrl": "http://www.radiomaria.ch//sites/all/themes/richer/assets/images/favicons/apple-icon-57x57.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Melody",
+    "streamUrl": "https://fm1melody.ice.infomaniak.ch/fm1melody-128.mp3",
+    "logoUrl": "https://www.radiomelody.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Munot",
+    "streamUrl": "http://streaming.swisstxt.ch/m/radiomunot/mp3_128",
+    "logoUrl": "https://www.radiomunot.ch/themes/shn/logo_radio_munot.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Number One Dance Ticino",
+    "streamUrl": "http://ice15.fluidstream.net/onedancech.aac",
+    "logoUrl": "https://onedancefm.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Ouistiti",
+    "streamUrl": "http://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3",
+    "logoUrl": "http://www.radioouistiti.ch/fr/wp-content/uploads/2014/07/favicon.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Ouistiti",
+    "streamUrl": "http://ouistiti-aac.stream2net.eu:8100/;",
+    "logoUrl": "http://radioouistiti.com/radioouistiti_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Ouistiti",
+    "streamUrl": "http://ouistiti-aac.stream2net.eu:8100/;",
+    "logoUrl": "http://radioouistiti.com/radioouistiti_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Pilatus",
+    "streamUrl": "http://radiopilatus.bcast.infomaniak.ch/pilatus128.mp3",
+    "logoUrl": "http://www.radiopilatus.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio R",
+    "streamUrl": "http://radior.ice.infomaniak.ch/radior-128.mp3",
+    "logoUrl": "https://radio-r.ch/wp-content/uploads/2018/12/cropped-R-vignette-32x32.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio RaSA Schaffhausen",
+    "streamUrl": "http://s11.pop-stream.de:11120/;stream.nsv",
+    "logoUrl": "http://www.rasa.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Rottu Oberwallis",
+    "streamUrl": "http://streams.rro.ch/rro.mp3",
+    "logoUrl": "http://www.rro.ch/player/rro.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Rumantsch",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rr/mp3_128",
+    "logoUrl": "http://www.rtr.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 1",
+    "streamUrl": "http://stream.srg-ssr.ch/m/drs1/aacp_32",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 1",
+    "streamUrl": "http://stream.srg-ssr.ch/m/drs1/mp3_128",
+    "logoUrl": "https://www.srf.ch//extension/srf_shared/design/standard/images/favicons/apple-touch-icon-180x180.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 1 Aargau Solothurn",
+    "streamUrl": "http://stream.srg-ssr.ch/m/regi_ag_so/aacp_32",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 1 Basel Baselland",
+    "streamUrl": "http://stream.srg-ssr.ch/m/regi_bs_bl/aacp_32",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 1 Bern Freibourg Wallis",
+    "streamUrl": "http://stream.srg-ssr.ch/m/regi_be_fr_vs/aacp_32",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 1 Ostschweiz",
+    "streamUrl": "http://stream.srg-ssr.ch/m/regi_ost/aacp_32",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 1 Regionaljournal Aargau, Solothurn",
+    "streamUrl": "http://stream.srg-ssr.ch/m/regi_ag_so/mp3_128",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Radio_SRF_1.svg/205px-Radio_SRF_1.svg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 1 Regionaljournal Basel, Baselland",
+    "streamUrl": "http://stream.srg-ssr.ch/m/regi_bs_bl/mp3_128",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Radio_SRF_1.svg/205px-Radio_SRF_1.svg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 1 Regionaljournal Bern, Freiburg, Wallis",
+    "streamUrl": "http://stream.srg-ssr.ch/m/regi_be_fr_vs/mp3_128",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Radio_SRF_1.svg/205px-Radio_SRF_1.svg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 1 Regionaljournal Graubünden",
+    "streamUrl": "http://stream.srg-ssr.ch/m/regi_gr/mp3_128",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Radio_SRF_1.svg/205px-Radio_SRF_1.svg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 1 Regionaljournal Ostschweiz",
+    "streamUrl": "http://stream.srg-ssr.ch/m/regi_ost/mp3_128",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Radio_SRF_1.svg/205px-Radio_SRF_1.svg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 1 Regionaljournal Zürich, Schaffhausen",
+    "streamUrl": "http://stream.srg-ssr.ch/m/regi_zh_sh/mp3_128",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Radio_SRF_1.svg/205px-Radio_SRF_1.svg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 1 Zentralschweiz",
+    "streamUrl": "http://stream.srg-ssr.ch/m/regi_zentr/aacp_32",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 1 Zentralschweiz",
+    "streamUrl": "http://stream.srg-ssr.ch/m/regi_zentr/mp3_128",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Radio_SRF_1.svg/205px-Radio_SRF_1.svg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 1 Zürich Schaffhausen",
+    "streamUrl": "http://stream.srg-ssr.ch/m/regi_zh_sh/aacp_32",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 2 Kultur",
+    "streamUrl": "http://stream.srg-ssr.ch/m/drs2/aacp_32",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 3",
+    "streamUrl": "http://stream.srg-ssr.ch/m/drs3/aacp_32",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF 4 News",
+    "streamUrl": "http://stream.srg-ssr.ch/m/drs4news/aacp_32",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF Musikwelle",
+    "streamUrl": "http://stream.srg-ssr.ch/m/drsmw/aacp_32",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF Virus",
+    "streamUrl": "http://stream.srg-ssr.ch/m/drsvirus/aacp_32",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio SRF Virus - Indie Rock",
+    "streamUrl": "http://streaming.swisstxt.ch/m/drsvirus/mp3_128",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Südostschweiz",
+    "streamUrl": "http://streaming.swisstxt.ch/m/grischa/mp3_128",
+    "logoUrl": "http://www.suedostschweiz.ch//themes/suedostschweiz/images/favicons/apple-touch-icon-57x57.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Suisse Classique",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsc_fr/mp3_128",
+    "logoUrl": "http://www.radioswissclassic.ch//assets/logos/favicons/rsc-favicon-c18b65b6a116a4d6d56bbd9673fa31f9.ico?v=2",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Suisse Classique",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsc_fr/mp3_128",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Sunshine",
+    "streamUrl": "http://sunshineradio.ice.infomaniak.ch/sunshineradio-128.mp3",
+    "logoUrl": "http://upload.wikimedia.org/wikipedia/de/7/76/Radio_Sunshine_logo.svg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Svizzera Classica",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsc_it/mp3_128",
+    "logoUrl": "http://www.radioswissclassic.ch//assets/logos/favicons/rsc-favicon-c18b65b6a116a4d6d56bbd9673fa31f9.ico?v=2",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Svizzera Classica",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsc_de/aacp_96",
+    "logoUrl": "http://www.radioswissclassic.ch/social-media/rsc-web.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rádio Swiss Classic",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsc_de/mp3_128",
+    "logoUrl": "http://www.radioswissclassic.ch/en",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Swiss Classic",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsc_de/aacp_96",
+    "logoUrl": "http://www.radioswissclassic.ch/social-media/rsc-web.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Swiss Classic French",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsc_fr/aacp_32",
+    "logoUrl": "http://www.radioswissclassic.ch/social-media/rsc-web.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Swiss Classic French",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsc_fr/aacp_96",
+    "logoUrl": "http://www.radioswissclassic.ch/social-media/rsc-web.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Swiss Classic French",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsc_fr/mp3_128",
+    "logoUrl": "http://www.radioswissclassic.ch/social-media/rsc-web.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Swiss Classic German",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsc_de/aacp_96",
+    "logoUrl": "http://www.radioswissclassic.ch/social-media/rsc-web.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Swiss Classic German",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsc_de/aacp_32",
+    "logoUrl": "http://www.radioswissclassic.ch/social-media/rsc-web.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Swiss Classic German",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsc_de/mp3_128",
+    "logoUrl": "http://www.radioswissclassic.ch/social-media/rsc-web.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Swiss Classic Italian",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsc_it/aacp_32",
+    "logoUrl": "http://www.radioswissclassic.ch/social-media/rsc-web.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Swiss Classic Italian",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsc_it/aacp_96",
+    "logoUrl": "http://www.radioswissclassic.ch/social-media/rsc-web.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Swiss Classic Italian",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsc_it/mp3_128",
+    "logoUrl": "http://www.radioswissclassic.ch/social-media/rsc-web.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Swiss Jazz",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsj/aacp_32",
+    "logoUrl": "http://www.radioswissjazz.ch/social-media/rsj-web.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Swiss Jazz",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsj/aacp_96",
+    "logoUrl": "http://www.radioswissjazz.ch/social-media/rsj-web.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Swiss Jazz",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsj/mp3_128",
+    "logoUrl": "http://www.radioswissjazz.ch/social-media/rsj-web.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Swiss Pop",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsp/aacp_32",
+    "logoUrl": "http://www.radioswisspop.ch/social-media/rsp-web.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Swiss Pop",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsp/aacp_96",
+    "logoUrl": "http://www.radioswisspop.ch/social-media/rsp-web.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Swiss Pop",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsp/mp3_128",
+    "logoUrl": "http://static.radio.fr/images/broadcasts/73/c0/3463/c300.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Tell",
+    "streamUrl": "http://stream.radiotell.ch/radiotell.mp3",
+    "logoUrl": "http://www.radiotell.ch/radiotell/image/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio Toxic FM",
+    "streamUrl": "http://toxicfm.ice.infomaniak.ch/toxicfm-128",
+    "logoUrl": "http://www.toxic.fm//favicons/mstile-144x144.png",
+    "desc": "CH"
+  },
+  {
+    "name": "radio vintage",
+    "streamUrl": "http://vintage.ice.infomaniak.ch/vintage",
+    "logoUrl": "https://bnj.blob.core.windows.net/assets/Htdocs/Images/Theme/bnj/player/cover-vintage.svg",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio3i",
+    "streamUrl": "http://radio3i.ice.infomaniak.ch/radio3i-128.mp3",
+    "logoUrl": "http://radio3i.ch/assets/images/app-logo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radio4TNG",
+    "streamUrl": "http://radio4tng.ice.infomaniak.ch/radio4tng-live-web.mp3",
+    "logoUrl": "http://www.radio4tng.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "radiobit.ch",
+    "streamUrl": "https://s2.radio.co/sd2ba30c08/listen",
+    "logoUrl": "https://static.wixstatic.com/media/64ac72_630038619b28474bbbd5d1c02f432df7%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/64ac72_630038619b28474bbbd5d1c02f432df7%7Emv2.png",
+    "desc": "CH"
+  },
+  {
+    "name": "RadioFr. Freiburg",
+    "streamUrl": "http://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3",
+    "logoUrl": "http://www.radiofr.ch/fileadmin/sites/radiofr/themes/default/img/logo-freiburg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "RadioFr. Freiburg Musik",
+    "streamUrl": "http://radiofrmusic.ice.infomaniak.ch/radiofrmusik-high.mp3",
+    "logoUrl": "http://www.radiofr.ch/fileadmin/sites/radiofr/themes/default/img/logo-freiburg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "RadioFr. Fribourg",
+    "streamUrl": "http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3",
+    "logoUrl": "http://www.radiofr.ch/fileadmin/sites/radiofr/themes/default/img/logo-fribourg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "RadioFr. Fribourg Music",
+    "streamUrl": "http://radiofrmusic.ice.infomaniak.ch/radiofrmusic-high.mp3",
+    "logoUrl": "http://www.radiofr.ch/fileadmin/sites/radiofr/themes/default/img/logo-fribourg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Radionet+",
+    "streamUrl": "http://radionetplus.ice.infomaniak.ch/radionetplus-high.mp3",
+    "logoUrl": "http://www.vibration108.ch/wp-content/uploads/2014/06/favicon.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Rap Beats Radio",
+    "streamUrl": "https://s3.radio.co/s295f3cf65/listen",
+    "logoUrl": "https://rapbeatsradio.com/wp-content/uploads/elementor/thumbs/RapBeats-600V2-ogs3dtbhzh3p3v54nikqqtmcjbfzk3q7691cyebao8.png",
+    "desc": "CH"
+  },
+  {
+    "name": "RFJ",
+    "streamUrl": "https://rfj.ice.infomaniak.ch/rfj-high.mp3",
+    "logoUrl": "https://bnj.blob.core.windows.net/assets/Htdocs/Images/Theme/bnj/player/cover-rfj.svg",
+    "desc": "CH"
+  },
+  {
+    "name": "Rhône FM",
+    "streamUrl": "http://rhonefm.ice.infomaniak.ch/rhonefm-high.aac",
+    "logoUrl": "http://www.rhonefm.ch/js/html5player/player_item/img/no_cover.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Rhône FM",
+    "streamUrl": "http://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3",
+    "logoUrl": "http://www.rhonefm.ch/js/html5player/player_item/img/no_cover.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Rhône FM",
+    "streamUrl": "http://rhonefm.ice.infomaniak.ch/rhonefm-low.mp3",
+    "logoUrl": "http://www.rhonefm.ch/js/html5player/player_item/img/no_cover.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "RJB",
+    "streamUrl": "https://rjb.ice.infomaniak.ch/rjb-high.mp3",
+    "logoUrl": "https://bnj.blob.core.windows.net/assets/Htdocs/Images/Theme/bnj/player/cover-rjb.svg",
+    "desc": "CH"
+  },
+  {
+    "name": "Rock The Blues",
+    "streamUrl": "http://rock-the-blues.stream.laut.fm/rock-the-blues?t302=2020-02-10_15-28-59&uuid=5a7a4885-e4d4-40f9-bee7-4f763db8c570",
+    "logoUrl": "http://assets.laut.fm/2f03b6df9228eb3f8737a3878057488b?t=_640x640",
+    "desc": "CH"
+  },
+  {
+    "name": "Rockit Radio",
+    "streamUrl": "https://rockitradio.ice.infomaniak.ch/rockitradio-high.mp3",
+    "logoUrl": "https://rockitradio.ch/assets/favicons/favicon-196x196.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM",
+    "streamUrl": "http://rougefm.ice.infomaniak.ch/rougefm-high.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/rougefmlive.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM 2000",
+    "streamUrl": "http://rouge-2000.ice.infomaniak.ch/rouge-2000-128.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/2000.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM 70s",
+    "streamUrl": "http://rouge-70s.ice.infomaniak.ch/rouge-70s-128.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/70.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM 80s",
+    "streamUrl": "http://rouge-80s.ice.infomaniak.ch/rouge-80s-128.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/80.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM 90s",
+    "streamUrl": "http://rouge-90.ice.infomaniak.ch/rouge-90-128.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/90.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM Best Hits",
+    "streamUrl": "http://rouge-besthits.ice.infomaniak.ch/rouge-besthits-128.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/besthits.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM Best Hits 2011",
+    "streamUrl": "http://rouge-besthits2011.ice.infomaniak.ch/rouge-besthits2011-128.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/besthits2011.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM Dance",
+    "streamUrl": "http://rouge-dance.ice.infomaniak.ch/rouge-dance-128.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/dance.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM Disco",
+    "streamUrl": "http://rouge-disco.ice.infomaniak.ch/rouge-disco-128.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/disco.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM Hip Hop",
+    "streamUrl": "http://rouge-hiphop.ice.infomaniak.ch/rouge-hiphop-128.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/hiphop.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM In Love",
+    "streamUrl": "http://rouge-inlove.ice.infomaniak.ch/rouge-inlove-128.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/inlove.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM Italia",
+    "streamUrl": "http://rouge-italia.ice.infomaniak.ch/rouge-italia-128.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/italia.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM Latino",
+    "streamUrl": "http://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/latino.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM Lounge",
+    "streamUrl": "http://rougefm.ice.infomaniak.ch/rougefm-high.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/lounge.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM Reggae",
+    "streamUrl": "http://rouge-reggae.ice.infomaniak.ch/rouge-reggae-128.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/reggae.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM RnB",
+    "streamUrl": "http://rouge-rnb.ice.infomaniak.ch/rouge-rnb-128.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/rnb.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM Suisse",
+    "streamUrl": "http://rouge-suisse.ice.infomaniak.ch/rouge-suisse-128.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/suisse.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM UK",
+    "streamUrl": "http://rouge-uk.ice.infomaniak.ch/rouge-uk-128.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/uk.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Rouge FM US",
+    "streamUrl": "http://rouge-us.ice.infomaniak.ch/rouge-us-128.mp3",
+    "logoUrl": "http://www.rougefm.com/imgs/webradios/us.png",
+    "desc": "CH"
+  },
+  {
+    "name": "RS dance station",
+    "streamUrl": "http://streaming.radionomy.com/JamendoLounge",
+    "logoUrl": "http://static1.squarespace.com/static/557f308be4b0fea5a4bc6428/t/5bef4ec440ec9ac292445471/1542409926483/RS+transparent+new+512x512.png?format=1500w",
+    "desc": "CH"
+  },
+  {
+    "name": "RSI Rete Due",
+    "streamUrl": "http://stream.srg-ssr.ch/m/retedue/aacp_32",
+    "logoUrl": "https://www.rsi.ch//static/ico/apple-touch-icon-144-precomposed.png",
+    "desc": "CH"
+  },
+  {
+    "name": "RSI Rete Tre",
+    "streamUrl": "http://stream.srg-ssr.ch/m/retetre/aacp_32",
+    "logoUrl": "https://www.rsi.ch//static/ico/apple-touch-icon-144-precomposed.png",
+    "desc": "CH"
+  },
+  {
+    "name": "RSI Rete Tre",
+    "streamUrl": "http://stream.srg-ssr.ch/m/retetre/mp3_128",
+    "logoUrl": "https://vignette2.wikia.nocookie.net/logopedia/images/2/2c/RSI_Rete_Tre_2012_Logo.svg",
+    "desc": "CH"
+  },
+  {
+    "name": "RSI Rete Uno",
+    "streamUrl": "http://stream.srg-ssr.ch/m/reteuno/aacp_32",
+    "logoUrl": "https://www.rsi.ch//static/ico/apple-touch-icon-144-precomposed.png",
+    "desc": "CH"
+  },
+  {
+    "name": "RSR Espace 2",
+    "streamUrl": "http://stream.srg-ssr.ch/m/espace-2/aacp_96",
+    "logoUrl": "https://i3.radionomy.com/radios/400/337b68f3-9353-4bbf-8c21-dec45305d866.png",
+    "desc": "CH"
+  },
+  {
+    "name": "RSR La Premiere",
+    "streamUrl": "http://stream.srg-ssr.ch/m/la-1ere/aacp_32",
+    "logoUrl": "https://www.rts.ch/2017/01/24/13/59/8156485.image",
+    "desc": "CH"
+  },
+  {
+    "name": "RSR Option Musique",
+    "streamUrl": "http://stream.srg-ssr.ch/m/option-musique/aacp_32",
+    "logoUrl": "https://www.rts.ch/2017/01/24/14/05/8156565.image",
+    "desc": "CH"
+  },
+  {
+    "name": "RTF made in italy",
+    "streamUrl": "http://178.209.40.106:8008/stream",
+    "logoUrl": "https://cdn-profiles.tunein.com/s212519/images/logoq.png",
+    "desc": "CH"
+  },
+  {
+    "name": "RTN",
+    "streamUrl": "https://rtn.ice.infomaniak.ch/rtn-high.mp3",
+    "logoUrl": "https://bnj.blob.core.windows.net/assets/Covers/GRP0RTN.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "RTS - La Première",
+    "streamUrl": "http://stream.srg-ssr.ch/m/la-1ere/mp3_128",
+    "logoUrl": "https://www.broadcast.ch/fileadmin/kundendaten/Bilder/Programm_Logos_Radio_42_Breit/RTS_LaPremiere_105_Breit.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "RTS La Première",
+    "streamUrl": "http://stream.srg-ssr.ch/m/la-1ere/mp3_128",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/d/df/La_Premi%C3%A8re.png",
+    "desc": "CH"
+  },
+  {
+    "name": "RTS Option Musique",
+    "streamUrl": "http://stream.srg-ssr.ch/m/option-musique/mp3_128",
+    "logoUrl": "http://static.radio.net/images/broadcasts/9e/dd/3462/5/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Spoon Radio",
+    "streamUrl": "http://spoonradio.ice.infomaniak.ch:80/spoonradio-hd",
+    "logoUrl": "http://www.spoonradio.com/sites/default/themes/basic/css/images/fb_share.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "SRF 1",
+    "streamUrl": "http://stream.srg-ssr.ch/m/drs1/mp3_128",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Radio_SRF_1.svg/205px-Radio_SRF_1.svg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "SRF 2",
+    "streamUrl": "http://stream.srg-ssr.ch/m/drs2/mp3_128",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Radio_SRF_2_Kultur.svg/155px-Radio_SRF_2_Kultur.svg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "SRF 3",
+    "streamUrl": "http://stream.srg-ssr.ch/m/drs3/mp3_128",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Radio_SRF_3.svg/200px-Radio_SRF_3.svg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "SRF 4 News",
+    "streamUrl": "http://stream.srg-ssr.ch/m/drs4news/mp3_128",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Radio_SRF_4_News.svg/205px-Radio_SRF_4_News.svg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "SRF 4 News acc",
+    "streamUrl": "http://stream.srg-ssr.ch/m/drs4news/aacp_32",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/radio/SRF-radio4-hori-small.png",
+    "desc": "CH"
+  },
+  {
+    "name": "SRF Musikwelle",
+    "streamUrl": "http://stream.srg-ssr.ch/m/drsmw/mp3_128",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Radio_SRF_Musikwelle.svg/205px-Radio_SRF_Musikwelle.svg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "SRF News aac",
+    "streamUrl": "http://stream.srg-ssr.ch/m/drs4news/aacp_32",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/radio/SRF-radio4-hori-small.png",
+    "desc": "CH"
+  },
+  {
+    "name": "SRF Virus",
+    "streamUrl": "http://stream.srg-ssr.ch/m/drsvirus/mp3_128",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Radio_SRF_Virus.svg/205px-Radio_SRF_Virus.svg.png",
+    "desc": "CH"
+  },
+  {
+    "name": "SRF1 Radio",
+    "streamUrl": "http://stream.srg-ssr.ch/m/drs1/aacp_96",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Starfrosch Radio 1",
+    "streamUrl": "http://radio.starfrosch.com:8000/stream",
+    "logoUrl": "https://starfrosch.com/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Starfrosch Radio 2",
+    "streamUrl": "http://radio.starfrosch.com:8000/stream2",
+    "logoUrl": "https://starfrosch.com/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Starfrosch Radio 3",
+    "streamUrl": "http://radio.starfrosch.com:8000/stream3",
+    "logoUrl": "https://starfrosch.com/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Swiss Melody",
+    "streamUrl": "http://streams.rro.ch/swissmelody.mp3",
+    "logoUrl": "http://www.rro.ch/cms/images/socialMedia/sm_profile.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "SwissGroove",
+    "streamUrl": "http://158.69.74.203:80",
+    "logoUrl": "http://www.swissgroove.ch/wp/wp-content/uploads/2014/04/swissgroove_logo.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Swissradio.ch Classical",
+    "streamUrl": "http://relay.publicdomainproject.org/classical.mp3",
+    "logoUrl": "http://swissradio.ch/banner/swissradio-classical-500.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Swissradio.ch Jazz & Swing",
+    "streamUrl": "http://relay.publicdomainproject.org/jazz_swing.mp3",
+    "logoUrl": "http://swissradio.ch/banner/swissradio-jazz-500.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Tele M1 HD.TV",
+    "streamUrl": "http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8",
+    "logoUrl": "https://www.telem1.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Telebasel.TV",
+    "streamUrl": "http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8",
+    "logoUrl": "https://telebasel.ch/wp-content/uploads/2015/12/tb_fav_icon.png",
+    "desc": "CH"
+  },
+  {
+    "name": "TeleBielingue.TV",
+    "streamUrl": "https://telebielinguech.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8",
+    "logoUrl": "http://www.telebielingue.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "toxic.fm",
+    "streamUrl": "http://toxicfm.ice.infomaniak.ch/toxicfm-128",
+    "logoUrl": "http://www.toxic.fm//favicons/mstile-144x144.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Ambient",
+    "streamUrl": "http://traxx011.ice.infomaniak.ch/traxx011-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Cool Jam",
+    "streamUrl": "http://traxx005.ice.infomaniak.ch/traxx005-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Deep",
+    "streamUrl": "http://traxx013.ice.infomaniak.ch/traxx013-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Deluxe",
+    "streamUrl": "http://traxx001.ice.infomaniak.ch/traxx001-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Electro",
+    "streamUrl": "http://icepe6.infomaniak.ch/traxx003-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - France",
+    "streamUrl": "http://icepe6.infomaniak.ch/traxx025-1.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Funk",
+    "streamUrl": "http://traxx016.ice.infomaniak.ch/traxx016-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Gold Hits 70s/80s",
+    "streamUrl": "http://icepe6.infomaniak.ch/traxx017-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Gold Hits 90s/2000s",
+    "streamUrl": "http://icepe6.infomaniak.ch/traxx024-1.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Golden Oldies",
+    "streamUrl": "http://traxx023.ice.infomaniak.ch/traxx023-1.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Hits",
+    "streamUrl": "http://icepe6.infomaniak.ch/traxx010-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - House",
+    "streamUrl": "http://traxx002.ice.infomaniak.ch/traxx002-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Italia",
+    "streamUrl": "http://icepe6.infomaniak.ch/traxx021-1.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Jazz",
+    "streamUrl": "http://traxx014.ice.infomaniak.ch/traxx014-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Latino",
+    "streamUrl": "http://traxx008.ice.infomaniak.ch/traxx008-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Latino Pop",
+    "streamUrl": "http://icepe6.infomaniak.ch/traxx022-1.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Lounge",
+    "streamUrl": "http://traxx004.ice.infomaniak.ch/traxx004-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Pop",
+    "streamUrl": "http://traxx009.ice.infomaniak.ch/traxx009-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Rap",
+    "streamUrl": "http://traxx015.ice.infomaniak.ch/traxx015-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - RnB",
+    "streamUrl": "http://traxx007.ice.infomaniak.ch/traxx007-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Rock",
+    "streamUrl": "http://traxx019.ice.infomaniak.ch/traxx019-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Soul",
+    "streamUrl": "http://traxx006.ice.infomaniak.ch/traxx006-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Traxx FM - Tech Minimal",
+    "streamUrl": "http://traxx020.ice.infomaniak.ch/traxx020-low.mp3",
+    "logoUrl": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "desc": "CH"
+  },
+  {
+    "name": "True House Chill",
+    "streamUrl": "http://stream.truehouse.net:8000/chill",
+    "logoUrl": "http://www.truehouse.net/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "True House Radio",
+    "streamUrl": "http://stream.truehouse.net:8000/house",
+    "logoUrl": "http://www.truehouse.net/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "TVM 3 TV",
+    "streamUrl": "http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8",
+    "logoUrl": "http://nettv.live/uploads/18/1-1Q2012223363U.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "TVM3.TV",
+    "streamUrl": "https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8",
+    "logoUrl": "http://www.tvm3.tv///templates/yoo_venice/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "UZIC.CH :: TECHNO - MINIMAL",
+    "streamUrl": "http://stream.uzic.ch:9010/",
+    "logoUrl": "http://www.uzic.ch/img/logo/uzic.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Vertical Radio",
+    "streamUrl": "http://verticalradio.ice.infomaniak.ch/verticalradio-128.mp3",
+    "logoUrl": "http://www.verticalradio.ch//images/apple-touch-icon-144x144-vertical.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Vibración Latina",
+    "streamUrl": "http://vibration.stream2net.eu:8410/;stream/1",
+    "logoUrl": "http://vibracionlatina.com/wp-content/uploads/2014/07/palmiers.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Vibration 108",
+    "streamUrl": "http://vibration108-high.ice.infomaniak.ch/vibration108-high.mp3",
+    "logoUrl": "http://www.vibration108.ch/wp-content/uploads/2014/06/favicon.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Vibration Chanson Française",
+    "streamUrl": "http://vibration.stream2net.eu:8510/;stream/1",
+    "logoUrl": "http://www.vibration108.ch/wp-content/uploads/2014/06/favicon.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Vibration FM",
+    "streamUrl": "http://vibration-aac.stream2net.eu:8040/;",
+    "logoUrl": "http://www.vibration108.ch/wp-content/uploads/2015/02/vibration108_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Vibration Gayradio",
+    "streamUrl": "http://vibration.stream2net.eu:8480/;stream/1",
+    "logoUrl": "http://vibrationgayradio.ch/wp-content/uploads/2014/12/favicon_gayradio.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Vibration Poprock",
+    "streamUrl": "http://vibrationpoprock.ice.infomaniak.ch/vibrationpoprock-high.mp3",
+    "logoUrl": "http://vibrationpoprock.com/wp-content/uploads/2016/02/favicon_poprock.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Vibration Poprock",
+    "streamUrl": "http://vibrationpoprock.stream2net.eu:8030/;",
+    "logoUrl": "http://www.vibration108.ch/wp-content/uploads/2015/02/vibration108_logo.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Vibration Soft Hits",
+    "streamUrl": "http://vibration.stream2net.eu:8350/;stream/1",
+    "logoUrl": "http://www.vibration108.ch/wp-content/uploads/2014/06/favicon.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Vibration Vintage",
+    "streamUrl": "http://vibrationvintage-high.ice.infomaniak.ch/vibration-vintage.mp3",
+    "logoUrl": "http://www.vibration108.ch/wp-content/uploads/2014/06/favicon.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Vibration Zen Relax",
+    "streamUrl": "http://vibration.stream2net.eu:8220/;stream/1",
+    "logoUrl": "http://www.vibration108.ch/wp-content/uploads/2014/06/favicon.jpg",
+    "desc": "CH"
+  },
+  {
+    "name": "Vintage Radio",
+    "streamUrl": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
+    "logoUrl": "https://vintageradio.ch//assets/favicons/mstile-144x144.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Vintage Radio",
+    "streamUrl": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3 ",
+    "logoUrl": "https://vintageradio.ch//assets/favicons/mstile-144x144.png",
+    "desc": "CH"
+  },
+  {
+    "name": "Voxinox",
+    "streamUrl": "http://94.23.41.123:8010/;",
+    "logoUrl": "http://www.voxinox.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "Voxinox 2",
+    "streamUrl": "http://94.23.41.123:8020/;",
+    "logoUrl": "http://www.voxinox.ch/favicon.ico",
+    "desc": "CH"
+  },
+  {
+    "name": "WakeNews",
+    "streamUrl": "https://stream.wakenews.net/radio-high.mp3",
+    "logoUrl": "https://secure.gravatar.com/blavatar/2b9ca4874e601ace7556abc14a916c7a?s=200&ts=1563989912",
+    "desc": "CH"
+  },
+  {
+    "name": "WakeNews",
+    "streamUrl": "https://stream.wakenews.net/radio-high.ogg",
+    "logoUrl": "https://secure.gravatar.com/blavatar/2b9ca4874e601ace7556abc14a916c7a?s=200&ts=1563989912",
+    "desc": "CH"
+  },
+  {
+    "name": "WRS (World Radio Switzerland)",
+    "streamUrl": "http://21263.live.streamtheworld.com:3690/WRSAAC_SC",
+    "logoUrl": "https://worldradio.ch/static/sitebase/images/logo.png",
     "desc": "CH"
   }
 ]

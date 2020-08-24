@@ -732,26 +732,8 @@
     "desc": "CH"
   },
   {
-    "name": "13 Starz radio",
-    "streamUrl": "http://streaming.radionomy.com/JamendoLounge",
-    "logoUrl": "http://www.vibration108.ch/wp-content/uploads/2014/06/favicon.jpg",
-    "desc": "CH"
-  },
-  {
-    "name": "80ies",
-    "streamUrl": "http://streaming.radionomy.com/JamendoLounge",
-    "logoUrl": "https://www.imgbox.de/users/roc/80ies.png",
-    "desc": "CH"
-  },
-  {
     "name": "80s Forever",
     "streamUrl": "http://azuracast.shoutcastsolutions.com/radio/8010/64AAC+.mp3",
-    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s148312q.png",
-    "desc": "CH"
-  },
-  {
-    "name": "80s Forever - We Keep The 80s Alive",
-    "streamUrl": "http://azuracast.shoutcastsolutions.com:8010",
     "logoUrl": "https://www.80sforever.radio/wp-content/uploads/2019/05/80sFOREVER-Logo_Radio_Block2_cmyk.jpg",
     "desc": "CH"
   },
@@ -762,27 +744,21 @@
     "desc": "CH"
   },
   {
-    "name": "Alpradio",
-    "streamUrl": "http://vibration.stream2net.eu:8050/;stream/1",
-    "logoUrl": "http://www.alpradio.ch/favicon.ico",
-    "desc": "CH"
-  },
-  {
     "name": "Ambi Nature Radio",
-    "streamUrl": "http://94.23.252.14:8067/;/;.m3u",
+    "streamUrl": "http://94.23.252.14:8067/stream",
     "logoUrl": "https://www.ambinatureradio.com/wp-content/uploads/2016/03/Ambi-Nature-e1459022898429.jpg",
     "desc": "CH"
   },
   {
     "name": "Arc Musique",
     "streamUrl": "https://arcmusique.ice.infomaniak.ch/arcmusique-128.mp3",
-    "logoUrl": "https://bnj.blob.core.windows.net/assets/Htdocs/Images/Theme/bnj/player/cover-arc.svg",
+    "logoUrl": "http://api.my-radios.com/images/thumb.php?countryCode=CH&name=27760-3708798.png&size=200",
     "desc": "CH"
   },
   {
     "name": "Audioasyl",
     "streamUrl": "http://stream.audioasyl.net:8000/audioasyl",
-    "logoUrl": "http://audioasyl.net/favicon.ico",
+    "logoUrl": "https://pbs.twimg.com/profile_images/1839414468/315896_261479963890455_129126240459162_749853_1225179201_n.jpg",
     "desc": "CH"
   },
   {
@@ -824,7 +800,7 @@
   {
     "name": "Christmas Radio",
     "streamUrl": "http://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3",
-    "logoUrl": "http://www.christmasradio.fm/__soononline/countdown_files/img/logo.png",
+    "logoUrl": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/23/68/5075/c175.png",
     "desc": "CH"
   },
   {
@@ -842,283 +818,271 @@
   {
     "name": "Electro Radio",
     "streamUrl": "http://stream.electroradio.fm/192k",
-    "logoUrl": "https://www.electroradio.fm/images/electroradio_logo_200.png",
+    "logoUrl": "https://electroradio.fm/wp-content/uploads/2020/03/er_logo-512.png",
     "desc": "CH"
   },
   {
-    "name": "Energy 00s",
+    "name": "Energy 00s (NRJ)",
     "streamUrl": "https://energy00s.ice.infomaniak.ch/energy00s-high.mp3",
     "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_00s_1493850304.png",
     "desc": "CH"
   },
   {
-    "name": "Energy 10s",
+    "name": "Energy 10s (NRJ)",
     "streamUrl": "https://energy10s.ice.infomaniak.ch/energy10s-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_10s_1496927267.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_10s_1493850329.png",
     "desc": "CH"
   },
   {
-    "name": "Energy 80s",
+    "name": "Energy 80s (NRJ)",
     "streamUrl": "http://energy80s.ice.infomaniak.ch/energy80s-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_80s_1493850231.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_80s_1493850231.png",
     "desc": "CH"
   },
   {
-    "name": "Energy 90s",
+    "name": "Energy 90s (NRJ)",
     "streamUrl": "http://energy90s.ice.infomaniak.ch/energy90s-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_90s_1493850263.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_90s_1493850263.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Air",
+    "name": "Energy Air (NRJ)",
     "streamUrl": "https://energyair.ice.infomaniak.ch/energyair-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_air_1496927402.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_air_1493851074.png",
     "desc": "CH"
   },
   {
-    "name": "Energy All Time Hits",
+    "name": "Energy All Time Hits (NRJ)",
     "streamUrl": "https://energyalltimehits.ice.infomaniak.ch/energyalltimehits-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_alltimehits_1496927518.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_alltimehits_1496415199.png",
     "desc": "CH"
   },
   {
-    "name": "Energy At Work",
+    "name": "Energy At Work (NRJ)",
     "streamUrl": "https://energyatwork.ice.infomaniak.ch/energyatwork-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_atwork_1546503844.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_atwork_1493850371.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Balkan Hits",
+    "name": "Energy Balkan Hits (NRJ)",
     "streamUrl": "https://energybalkanhits.ice.infomaniak.ch/energybalkanhits-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_balkanhits_1496927387.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_balkanhits_1493850412.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Blick Trendz",
-    "streamUrl": "http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3",
-    "logoUrl": "http://www.energyzueri.ch/favicon.ico",
-    "desc": "CH"
-  },
-  {
-    "name": "Energy Charts",
+    "name": "Energy Charts (NRJ)",
     "streamUrl": "https://energycharts.ice.infomaniak.ch/energycharts-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/500x500-c/logo_secondary_charts_1493850464.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_charts_1496332216.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Country Hits",
+    "name": "Energy Country Hits (NRJ)",
     "streamUrl": "https://energycountryhits.ice.infomaniak.ch/energycountryhits-high.mp3",
     "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_countryhits_1496927546.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Dance (Switzerland)",
+    "name": "Energy Dance (NRJ)",
     "streamUrl": "http://energydance.ice.infomaniak.ch/energydance-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_dance_1493850484.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_dance_1493850484.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Deep",
+    "name": "Energy Deep (NRJ)",
     "streamUrl": "http://energydeep.ice.infomaniak.ch/energydeep-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_deep_1493850507.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_deep_1493850507.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Discover",
+    "name": "Energy Discover (NRJ)",
     "streamUrl": "https://energydiscover.ice.infomaniak.ch/energydiscover-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_discover_1496927557.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_discover_1496415292.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Fashion Night",
-    "streamUrl": "https://energyfashionnight.ice.infomaniak.ch/energyfashionnight-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_fashionnight_1496927409.png",
-    "desc": "CH"
-  },
-  {
-    "name": "Energy Folk",
+    "name": "Energy Folk (NRJ)",
     "streamUrl": "https://energyfolk.ice.infomaniak.ch/energyfolk-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_folk_1496927364.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_folk_1496823276.png",
     "desc": "CH"
   },
   {
-    "name": "Energy French",
+    "name": "Energy French (NRJ)",
     "streamUrl": "https://energyfrench.ice.infomaniak.ch/energyfrench-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_french_1496927474.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_french_1496218174.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Happy",
+    "name": "Energy Happy (NRJ)",
     "streamUrl": "https://energyhappy.ice.infomaniak.ch/energyhappy-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_happy_1496927551.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_happy_1496415278.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Hits",
+    "name": "Energy Hits (NRJ)",
     "streamUrl": "https://energyhits.ice.infomaniak.ch/energyhits-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_hits_1512407288.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_hits_1512407284.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Hot",
+    "name": "Energy Hot (NRJ)",
     "streamUrl": "https://energyhot.ice.infomaniak.ch/energyhot-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energy-web/assets/favicons/favicon-96x96.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_hot_1493850576.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Italy (Switzerland)",
+    "name": "Energy Italy (NRJ Switzerland)",
     "streamUrl": "http://energyitaly.ice.infomaniak.ch/energyitaly-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_italy_1493850603.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_italy_1493850603.png",
     "desc": "CH"
   },
   {
-    "name": "Energy K-Pop",
+    "name": "Energy K-Pop (NRJ)",
     "streamUrl": "https://energykpop.ice.infomaniak.ch/energykpop-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_kpop_1544451107.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_kpop_1544451086.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Latin",
+    "name": "Energy Latin (NRJ)",
     "streamUrl": "https://energylatin.ice.infomaniak.ch/energylatin-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_latin_1496927320.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_latin_1493850656.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Live Session",
+    "name": "Energy Live Session (NRJ)",
     "streamUrl": "https://energylivesession.ice.infomaniak.ch/energylivesession-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_livesession_1496927424.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_livesession_1493850740.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Love",
+    "name": "Energy Love (NRJ)",
     "streamUrl": "http://energylove.ice.infomaniak.ch/energylove-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_love_1493850718.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_love_1493850718.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Mix",
+    "name": "Energy Mix (NRJ)",
     "streamUrl": "https://energymix.ice.infomaniak.ch/energymix-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_mix_1496927357.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_mix_1493851214.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Mundart",
+    "name": "Energy Mundart (NRJ)",
     "streamUrl": "https://energymundart.ice.infomaniak.ch/energymundart-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_mundart_1496927481.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_mundart_1496218200.png",
     "desc": "CH"
   },
   {
-    "name": "Energy One Hit Wonder",
+    "name": "Energy One Hit Wonder (NRJ)",
     "streamUrl": "https://energyonehitwonder.ice.infomaniak.ch/energyonehitwonder-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_onehitwonder_1496927495.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_onehitwonder_1496927211.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Party Hits",
+    "name": "Energy Party Hits (NRJ)",
     "streamUrl": "https://energypartyhits.ice.infomaniak.ch/energypartyhits-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_partyhits_1496927446.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_partyhits_1496218067.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Pop",
+    "name": "Energy Pop (NRJ)",
     "streamUrl": "https://energypop.ice.infomaniak.ch/energypop-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_pop_1496927535.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_pop_1496415239.png",
     "desc": "CH"
   },
   {
-    "name": "Energy R'N'B & Hip-Hop",
+    "name": "Energy R'N'B & Hip-Hop (NRJ)",
     "streamUrl": "https://energyrnbhiphop.ice.infomaniak.ch/energyrnbhiphop-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_rnbhiphop_1544451065.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_rnbhiphop_1544450859.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Rap",
+    "name": "Energy Rap (NRJ)",
     "streamUrl": "https://energyrap.ice.infomaniak.ch/energyrap-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_rap_1496927503.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_rap_1496415164.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Red Session",
+    "name": "Energy Red Session (NRJ)",
     "streamUrl": "https://energyredsession.ice.infomaniak.ch/energyredsession-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_redsession_1496927431.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_redsession_1496218027.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Reggae",
+    "name": "Energy Reggae (NRJ)",
     "streamUrl": "https://energyreggae.ice.infomaniak.ch/energyreggae-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_reggae_1496927510.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_reggae_1496415183.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Relax",
+    "name": "Energy Relax (NRJ)",
     "streamUrl": "https://energyrelax.ice.infomaniak.ch/energyrelax-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_relax_1544177412.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_relax_1544177409.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Rock",
+    "name": "Energy Rock (NRJ)",
     "streamUrl": "http://energyrock.ice.infomaniak.ch/energyrock-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energy-web/assets/images/logos/energy_logo_md.svg",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_rock_1493850937.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Soundtrack",
+    "name": "Energy Soundtrack (NRJ)",
     "streamUrl": "http://energysoundtrack.ice.infomaniak.ch/energysoundtrack-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_soundtrack_1493850961.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_soundtrack_1493850961.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Star Night",
+    "name": "Energy Star Night (NRJ)",
     "streamUrl": "https://energystarnight.ice.infomaniak.ch/energystarnight-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_starnight_1496927416.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_starnight_1496217998.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Summer",
+    "name": "Energy Summer (NRJ)",
     "streamUrl": "http://energysummer.ice.infomaniak.ch/energysummer-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_summer_1496927282.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_summer_1493850987.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Swiss",
+    "name": "Energy Swiss (NRJ)",
     "streamUrl": "http://energyswiss.ice.infomaniak.ch/energyswiss-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_swiss_1493851016.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_swiss_1493851016.png",
     "desc": "CH"
   },
   {
-    "name": "Energy US Top 40",
+    "name": "Energy US Top 40 (NRJ)",
     "streamUrl": "https://energyustop40.ice.infomaniak.ch/energyustop40-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_ustop40_1496927452.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_ustop40_1496218085.png",
     "desc": "CH"
   },
   {
-    "name": "Energy User Charts",
+    "name": "Energy User Charts (NRJ)",
     "streamUrl": "https://energyusercharts.ice.infomaniak.ch/energyusercharts-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_usercharts_1496927579.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_usercharts_1496415397.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Workout",
+    "name": "Energy Workout (NRJ)",
     "streamUrl": "http://energyworkout.ice.infomaniak.ch/energyworkout-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_workout_1493851043.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_workout_1493851043.png",
     "desc": "CH"
   },
   {
-    "name": "Energy Xmas",
+    "name": "Energy Xmas (NRJ)",
     "streamUrl": "https://energyxmas.ice.infomaniak.ch/energyxmas-high.mp3",
-    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/desktop_xmas_1496927439.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_xmas_1496218045.png",
     "desc": "CH"
   },
   {
     "name": "Energy Zürich (NRJ)",
     "streamUrl": "http://broadcast.infomaniak.ch/energyzuerich-high.mp3",
-    "logoUrl": "http://static.radio.net/images/broadcasts/31/2f/6977/1/c300.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_zuerich_1494402105.png",
     "desc": "CH"
   },
   {
     "name": "ERF Melodie (128k)",
     "streamUrl": "http://server6.digital-webstream.de:32505/;",
-    "logoUrl": "http://www.erf-melodie.com//favicon.ico",
+    "logoUrl": "https://www.erf-melodie.com/fileadmin/templates/images/erf-tirol-logo.png",
     "desc": "CH"
   },
   {
@@ -1130,25 +1094,19 @@
   {
     "name": "GDS.FM",
     "streamUrl": "http://gdsfm.out.airtime.pro:8000/gdsfm_a",
-    "logoUrl": "http://play.gds.fm/build/images/gds-logo.jpg",
+    "logoUrl": "https://media.payrexx.com/s/gdsfm/logoohneschrift.jpg",
     "desc": "CH"
   },
   {
     "name": "Global FM",
     "streamUrl": "http://globalfm.ice.infomaniak.ch/globalfm-high.mp3",
-    "logoUrl": "http://www.globalfm.ch/favicon.ico",
+    "logoUrl": "https://www.globalsport.ch/uploads/images/site/logo.png",
     "desc": "CH"
   },
   {
     "name": "Grrif",
     "streamUrl": "http://grrif.ice.infomaniak.ch/grrif-high.mp3",
-    "logoUrl": "https://www.grrif.ch/wp-content/themes/grrif/img/icons/favicon.ico",
-    "desc": "CH"
-  },
-  {
-    "name": "grrif",
-    "streamUrl": "http://grrif.ice.infomaniak.ch/grrif-high.mp3",
-    "logoUrl": "https://www.grrif.ch/wp-content/themes/grrif/img/icons/favicon.ico",
+    "logoUrl": "https://www.grrif.ch/Medias/Covers/m/default.jpg",
     "desc": "CH"
   },
   {
@@ -1159,56 +1117,8 @@
   },
   {
     "name": "IP music",
-    "streamUrl": "http://live9.avf.ch:8000/ipmusic256",
-    "logoUrl": "http://www.ipmusic.ch/favicon.ico",
-    "desc": "CH"
-  },
-  {
-    "name": "IP music",
-    "streamUrl": "http://live7.avf.ch:8000/ipmusic320",
-    "logoUrl": "http://www.ipmusic.ch/favicon.ico",
-    "desc": "CH"
-  },
-  {
-    "name": "IP music",
-    "streamUrl": "http://live7.avf.ch:8000/ipmusicaacplus96",
-    "logoUrl": "http://www.ipmusic.ch/favicon.ico",
-    "desc": "CH"
-  },
-  {
-    "name": "IP music",
     "streamUrl": "http://live7.avf.ch:8000/ipmusicaacplus128",
-    "logoUrl": "http://www.ipmusic.ch/favicon.ico",
-    "desc": "CH"
-  },
-  {
-    "name": "IP music",
-    "streamUrl": "http://live9.avf.ch:8000/ipmusicaacplus96",
     "logoUrl": "http://is4.mzstatic.com/image/thumb/Purple71/v4/61/cb/5e/61cb5ed3-8005-1015-2b04-2ea3e77d3a0a/source/1200x630bb.jpg",
-    "desc": "CH"
-  },
-  {
-    "name": "IP music (AAC)",
-    "streamUrl": "http://live9.avf.ch:8000/ipmusicaacplus64",
-    "logoUrl": "http://www.ipmusic.ch/favicon.ico",
-    "desc": "CH"
-  },
-  {
-    "name": "IP music (MP3)",
-    "streamUrl": "http://live9.avf.ch:8000/ipmusic128",
-    "logoUrl": "http://www.ipmusic.ch/favicon.ico",
-    "desc": "CH"
-  },
-  {
-    "name": "IP music slow (128 kbps AAC)",
-    "streamUrl": "http://live7.avf.ch:8000/ipmusicslowaacp128",
-    "logoUrl": "http://www.ipmusicslow.ch/favicon.ico",
-    "desc": "CH"
-  },
-  {
-    "name": "IP music slow (96 kbps AAC)",
-    "streamUrl": "http://live7.avf.ch:8000/ipmusicslowaacp96",
-    "logoUrl": "http://www.ipmusicslow.ch/favicon.ico",
     "desc": "CH"
   },
   {
@@ -1231,30 +1141,18 @@
   },
   {
     "name": "Lounge Radio",
-    "streamUrl": "http://de1.streamhosting.ch:80",
-    "logoUrl": "https://lounge-radio.com//wp-content/uploads/fbrfg/mstile-144x144.png",
-    "desc": "CH"
-  },
-  {
-    "name": "Lounge-Radio.com",
     "streamUrl": "http://fr1.lounge-radio.com/lounge128.mp3",
     "logoUrl": "http://www.lounge-radio.com/code/pushed_files/playlist_sam342/na.png",
     "desc": "CH"
   },
   {
-    "name": "Lounge-Radio.com",
-    "streamUrl": "http://nl1.lounge-radio.com:8010/",
-    "logoUrl": "http://www.lounge-radio.com/header_alpen.jpg",
-    "desc": "CH"
-  },
-  {
-    "name": "Luna Radio",
+    "name": "Energy Luna Radio (NRJ)",
     "streamUrl": "https://lunaradio.ice.infomaniak.ch/lunaradio-high.mp3",
-    "logoUrl": "http://lunaradio.ch//assets/favicons/mstile-144x144.png",
+    "logoUrl": "https://cdn.energy.ch/energych-broadcast/covers/channels/250x250-c/logo_primary_luna_1592899554.png",
     "desc": "CH"
   },
   {
-    "name": "MASCHINENGEIST.ORG Radio",
+    "name": "Maschinengeist",
     "streamUrl": "http://i.20hz.biz:8000/maschinengeist.org.192.mp3",
     "logoUrl": "http://forum.maschinengeist.org/images/maschinengeist.org/mg_logo.gif",
     "desc": "CH"
@@ -1400,7 +1298,7 @@
   {
     "name": "Openbroadcast.ch",
     "streamUrl": "http://stream.openbroadcast.org/openbroadcast",
-    "logoUrl": "https://www.openbroadcast.ch/static/img/asset/logo-og.png",
+    "logoUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t1.0-9/66490656_10156070342227735_4631864655252291584_n.jpg?_nc_cat=103&_nc_sid=85a577&_nc_ohc=8vMqBxrI9q8AX8JWapn&_nc_ht=scontent-zrh1-1.xx&oh=404a583e9f7c6aef5a0c104cbc6d4f26&oe=5F69EA7E",
     "desc": "CH"
   },
   {
@@ -1880,7 +1778,7 @@
   {
     "name": "Radio Sunshine",
     "streamUrl": "http://sunshineradio.ice.infomaniak.ch/sunshineradio-128.mp3",
-    "logoUrl": "http://upload.wikimedia.org/wikipedia/de/7/76/Radio_Sunshine_logo.svg",
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s15480g.png",
     "desc": "CH"
   },
   {
@@ -2223,12 +2121,6 @@
     "name": "Rouge FM US",
     "streamUrl": "http://rouge-us.ice.infomaniak.ch/rouge-us-128.mp3",
     "logoUrl": "http://www.rougefm.com/imgs/webradios/us.png",
-    "desc": "CH"
-  },
-  {
-    "name": "RS dance station",
-    "streamUrl": "http://streaming.radionomy.com/JamendoLounge",
-    "logoUrl": "http://static1.squarespace.com/static/557f308be4b0fea5a4bc6428/t/5bef4ec440ec9ac292445471/1542409926483/RS+transparent+new+512x512.png?format=1500w",
     "desc": "CH"
   },
   {
@@ -2665,38 +2557,26 @@
   },
   {
     "name": "Vintage Radio",
-    "streamUrl": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
-    "logoUrl": "https://vintageradio.ch//assets/favicons/mstile-144x144.png",
-    "desc": "CH"
-  },
-  {
-    "name": "Vintage Radio",
     "streamUrl": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3 ",
-    "logoUrl": "https://vintageradio.ch//assets/favicons/mstile-144x144.png",
+    "logoUrl": "https://cdn.energy.ch/energych/sites/ech/ansel/610x-ql/Vintage-Radio_FB_Profilbild_800x800px-2035-1480429173.jpg",
     "desc": "CH"
   },
   {
     "name": "Voxinox",
     "streamUrl": "http://94.23.41.123:8010/;",
-    "logoUrl": "http://www.voxinox.ch/favicon.ico",
+    "logoUrl": "http://voxinox.ch/img/logo_boule_200x200.gif",
     "desc": "CH"
   },
   {
     "name": "Voxinox 2",
     "streamUrl": "http://94.23.41.123:8020/;",
-    "logoUrl": "http://www.voxinox.ch/favicon.ico",
+    "logoUrl": "http://voxinox.ch/img/logovoxi2_200x150.jpg",
     "desc": "CH"
   },
   {
     "name": "WakeNews",
     "streamUrl": "https://stream.wakenews.net/radio-high.mp3",
-    "logoUrl": "https://secure.gravatar.com/blavatar/2b9ca4874e601ace7556abc14a916c7a?s=200&ts=1563989912",
-    "desc": "CH"
-  },
-  {
-    "name": "WakeNews",
-    "streamUrl": "https://stream.wakenews.net/radio-high.ogg",
-    "logoUrl": "https://secure.gravatar.com/blavatar/2b9ca4874e601ace7556abc14a916c7a?s=200&ts=1563989912",
+    "logoUrl": "https://mywakenews.files.wordpress.com/2015/06/wake-news-aufkleber-1.jpg?w=640",
     "desc": "CH"
   },
   {
